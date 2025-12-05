@@ -1,0 +1,9 @@
+# Midori
+
+Epiphany是GNOME项目中根正苗红的嫡子浏览器。自2012年起被径称为Web。
+
+2002年，当时最著名的Linux-only浏览器Galeon的作者Marco Pesenti Gritti决定接受GNOME项目招安，重写浏览器界面以适应GNOME设计指引的要求。但这一主张并未得到其他开发者的拥戴。于是他索性另起炉灶，按照自己的想法开发了Epiphany并顺利被招安，成为GNOME的默认浏览器。Marco同时也是GNOME旗下PDF阅读器Evince的作者。
+
+彼时KDE团队的KHTML内核还被GNOME社群视为异端，因此Epiphany还是继承了Galeon的Gecko内核。孰料天有不测风云，同年苹果分叉KHTML搞出的WebKit内核，在iPhone大卖之后成为了开源界的香饽饽。无奈之下，2007年Epiphany决定加入由Midori发起的WebKitGTK项目，并于2009年发布的2.8版本正式完成切换。
+
+换成WebKit之后，Epiphany与Firefox的关系反而有所缓和，于3.26至47版本之间一度兼容了[Firefox Sync](firefox-sync.md)。
