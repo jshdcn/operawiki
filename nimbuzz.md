@@ -1,7 +1,7 @@
 # Nimbuzz
 
-Nimbuzz是一个全功能IM客户端，支持包括Jabber（含Facebook）、MSN、Yahoo!、OSCAR、Skype（含MySpace）及众多欧洲社交网在内的20余种通讯协议。是全星球唯一拥有电脑安装版、电脑上网版、手机安装版、手机上网版的跨协议即时通讯客户端。需要注册Nimbuzz帐号方能使用，使用时通过位于荷兰的Nimbuzz服务器进行传送，在存在一定帐号风险的情况下，也起到了构建和谐网络的作用（如美国公司无法阻止古巴用户从欧洲服务器登入他们的服务）。
+Nimbuzz是一个全功能IM客户端，支持包括[Jabber](xmpp.md)（含Facebook）、MSN、Yahoo!、OSCAR、Skype（含MySpace）及众多欧洲社交网在内的20余种通讯协议。是全星球唯一拥有电脑安装版、电脑上网版、手机安装版、手机上网版的跨协议即时通讯客户端。需要注册Nimbuzz帐号方能使用，使用时通过位于荷兰的Nimbuzz服务器进行传送，在存在一定帐号风险的情况下，也起到了构建和谐网络的作用（如美国公司无法阻止古巴用户从欧洲服务器登入他们的服务）。
 
 Nimbuzz的另一项重要功能就是通道IM，Nimbuzz帐号可以将各个网络的所有好友带到一个统一的Jabber协议框架之下。不同于常见的Jabber-IM网关，Nimbuzz的Jabber帐号是可携带的，在任何Jabber通路下都可使用，也无需另行申请注册。
 
-Nimbuzz支持通过SIP或自家的NimbuzzOut来拨打语音电话，2010年10月之前也支持Skype。在一些不能通过数据网络进行语音通话的版本中，可以像3-Skype一样拨打一个本地接入号码来实现VoIP功能。
+Nimbuzz支持通过SIP或自家的NimbuzzOut来拨打语音电话，2010年10月之前也支持Skype。在一些不能通过数据网络进行语音通话的版本中，可以像[3-Skype](iskoot.md)一样拨打一个本地接入号码来实现VoIP功能。

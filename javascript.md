@@ -1,0 +1,3 @@
+# JavaScript
+
+一种基于对象的脚本语言。网景通讯公司最初在它的Navigator 2.0产品上设计并实现的，原名LiveScript。目前已经在WWW上广泛用于动态Web页面的编程语言。

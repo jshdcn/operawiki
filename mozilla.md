@@ -1,14 +1,14 @@
 # Mozilla基金会
 
-Mozilla基金会（缩写MF或MoFo）是为支持和领导开源的Mozilla项目而设立的一个非营利组织。该组织制定开发政策，经营关键业务，并管理商标等知识产权。它拥有一个称作Mozilla公司的应税子公司，雇佣了一些Mozilla开发人员并协调Mozilla Firefox网页浏览器以及Mozilla Thunderbird电子邮件客户端的发行。Mozilla基金会位于美国加州山景城。
+Mozilla基金会（缩写MF或MoFo）是为支持和领导开源的Mozilla项目而设立的一个非营利组织。该组织制定开发政策，经营关键业务，并管理商标等知识产权。它拥有一个称作Mozilla公司的应税子公司，雇佣了一些Mozilla开发人员并协调[Mozilla Firefox](firefox.md)网页浏览器以及[Mozilla Thunderbird](thunderbird.md)电子邮件客户端的发行。Mozilla基金会位于美国加州山景城。
 
 Mozilla基金会自称“一个致力于在互联网领域提供多样化选择和创新的公益组织”。
 
 ## 历史
 
-Mozilla在开始时是网景导航者浏览器使用的内部名称。这个名字的来源是Mosaic和Godzilla（怪兽哥斯拉）两个词的结合，意为“Mosaic终结者”。受《大教堂和市集》触发，1998年2月23日，网景通讯公司在Netscape Public License的条款下公开了网景通讯家套件的大部分源代码（包括网景导航者浏览器）。这个项目沿用了Mozilla的名称，同时新成立了Mozilla组织及其专门网站来协调Mozilla的开发。
+Mozilla在开始时是网景导航者浏览器使用的内部名称。这个名字的来源是[Mosaic](mosaic.md)和Godzilla（怪兽哥斯拉）两个词的结合，意为“Mosaic终结者”。受《大教堂和市集》触发，1998年2月23日，网景通讯公司在Netscape Public License的条款下公开了网景通讯家套件的大部分源代码（包括网景导航者浏览器）。这个项目沿用了Mozilla的名称，同时新成立了Mozilla组织及其专门网站来协调Mozilla的开发。
 
-尽管社团主要由网景公司的员工组成，但是理论上，它是独立于网景公司运作的。因此，当网景公司主力正在开发基于Mariner引擎的网景通讯家5时，Mozilla社团却宣布该引擎不堪使用，并抛弃差不多全部代码转向Gecko引擎的开发，而同时却又声称他们开发的浏览器主要用于测试目的，不适合直接为最终用户使用。以至于当时一度出现了Beonex Communicator这样的将Mozilla商品化的专项。
+尽管社团主要由网景公司的员工组成，但是理论上，它是独立于网景公司运作的。因此，当网景公司主力正在开发基于Mariner引擎的网景通讯家5时，Mozilla社团却宣布该引擎不堪使用，并抛弃差不多全部代码转向[Gecko](gecko.md)引擎的开发，而同时却又声称他们开发的浏览器主要用于测试目的，不适合直接为最终用户使用。以至于当时一度出现了Beonex Communicator这样的将Mozilla商品化的专项。
 
 贸然开源拖垮了正疲于应付第一次浏览器大战的网景，1998年11月24日，网景被美国在线以42亿美元收购。之后，Mozilla社团一直在后者的资助下进行研发活动。由于美国在线牢牢控制着网景品牌，Mozilla的产品采名为Mozilla套件。
 
@@ -22,7 +22,7 @@ Mozilla在开始时是网景导航者浏览器使用的内部名称。这个名�
 
 在2005年8月3日，Mozilla基金会全资建立了一个Mozilla公司来承担Firefox和Thunderbird的发行和市场活动，也处理一些间或带来收入的商业合作。2008年2月19日至2011年4月4日间还曾短暂分立出一个名为Mozilla Messaging的公司来专门运营Thunderbird。不同于Mozilla基金会，Mozilla公司是一个应税实体，这给它在追逐收益以及其他商业活动带来了更多自由。
 
-随着Mozilla公司的成立，Mozilla基金会把产品化的软件开发和商业相关的活动都转移给了这个新的下属机构。Mozilla基金会现在只专注于监管和战略等事宜，它也继续管理一些没有产品化的项目，比如Camino和SeaMonkey。Mozilla基金会现在拥有Mozilla商标和其他知识产权，并且全部授权Mozilla公司使用。基金会还控制着Mozilla的程序源码库并且决定谁可以提交代码入库。
+随着Mozilla公司的成立，Mozilla基金会把产品化的软件开发和商业相关的活动都转移给了这个新的下属机构。Mozilla基金会现在只专注于监管和战略等事宜，它也继续管理一些没有产品化的项目，比如[Camino](camino.md)和[SeaMonkey](seamonkey.md)。Mozilla基金会现在拥有Mozilla商标和其他知识产权，并且全部授权Mozilla公司使用。基金会还控制着Mozilla的程序源码库并且决定谁可以提交代码入库。
 
 ## 资金来源
 

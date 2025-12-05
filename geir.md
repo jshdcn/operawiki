@@ -1,3 +1,3 @@
 # 盖儿·伊瓦尔绥
 
-盖尔·伊瓦尔绥（挪威文:Geir Ivarsøy），出生于1957年6月27日，是浏览器软件Opera的总程序设计师。 2006年3月9日因癌症逝世。此后，Opera桌面产品的关于页面右下角出现了如下字样：永远怀念 Geir Ivarsøy。
+盖尔·伊瓦尔绥（挪威文:Geir Ivarsøy），出生于[1957年](https://zh.wikipedia.org/w/index.php?title=1957%E5%B9%B4&variant=zh-cn)[6月27日](https://zh.wikipedia.org/w/index.php?title=6%E6%9C%8827%E6%97%A5&variant=zh-cn)，是浏览器软件[Opera](browser.md)的总程序设计师。[2006年](https://zh.wikipedia.org/w/index.php?title=2006%E5%B9%B4&variant=zh-cn)[3月9日](https://zh.wikipedia.org/w/index.php?title=3%E6%9C%889%E6%97%A5&variant=zh-cn)因癌症逝世。此后，Opera桌面产品的关于页面右下角出现了如下字样：永远怀念 Geir Ivarsøy。

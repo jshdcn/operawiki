@@ -1,122 +1,123 @@
 # Opera网页浏览器的特征
 
-这篇文章介绍Opera网页浏览器（包括Opera、[Opera Mobile](opera-mobile.md)、Opera Mini和Opera Devices）的特征。
+这篇文章介绍Opera网页浏览器（包括[Opera](browser.md)、[Opera Mobile](opera-mobile.md)、[Opera Mini](opera-mini.md)和[Opera Devices](devices.md)）的特征。
 
 以下按照这些特征适用平台进行分类（Opera Devices因其载体不同功能各异，Opera Devices for Wii可参照Opera，Opera Devices for DS可参照Opera Mobile）
 
-### 适用于Opera、Opera Mini和Opera Mobile
-#### 遵守网络标准
-Opera在网页标准竞赛中一直遥遥领先，直至近年KHTML家族才渐渐赶上。这种对标准的支持是内核级的。不过有意见认为，Opera对那些非标准网页的支持也相较Gecko和KHTML家族为优。
+## 适用于Opera、Opera Mini和Opera Mobile
+### 遵守网络标准
+Opera在网页标准竞赛中一直遥遥领先，直至近年[KHTML](https://userbase.kde.org/Glossary/zh-cn#KHTML)家族才渐渐赶上。这种对标准的支持是内核级的。不过有意见认为，Opera对那些非标准网页的支持也相较[Gecko](gecko.md)和KHTML家族为优。
 
-#### 窗口拦截
+### 窗口拦截
 Opera可以智能地拦截弹出窗口。
 
-#### 内容阻止
-Opera提供选项阻止任何网页中的任何内容，只需知道其源地址。这个功能堪比Mozilla Firefox下流行的扩展Adblock，但由于需要手动添加，一般人不用它来屏蔽广告，而是特定格式的内容。
+### 内容阻止
+Opera提供选项阻止任何网页中的任何内容，只需知道其源地址。这个功能堪比[Mozilla Firefox](firefox.md)下流行的扩展Adblock，但由于需要手动添加，一般人不用它来屏蔽广告，而是特定格式的内容。
 
-#### 中继压缩
-Opera Mini服务采用自己发明的Opera Binary Markup Language传输网页内容，其流量可比HTML节省至90%并仍能实现标准网页的大部分主要功能。
+### 中继压缩
+Opera Mini服务采用自己发明的Opera Binary Markup Language传输网页内容，其流量可比[HTML](https://zh.wikipedia.org/zh-cn/HTML)节省至90%并仍能实现标准网页的大部分主要功能。
 
 Opera Turbo服务采用自己发明的Opera Web Optimization Proxy传输网页内容，按照Opera公司发布这一产品时的说法，其流量可比HTML节省至80%并仍能实现标准网页的全部主要功能，被压缩的部分主要是图片和附加内容。Opera Mobile从9.7版起，Opera从10.0版起正式提供Opera Turbo功能。
 
-#### 笔记
+### 笔记
 便捷的笔记功能，随时保存任何心得和页面到笔记中。
 
-### 适用于Opera和Opera Mini
-#### 反钓鱼
-Opera自桌面版9.1起，与数字证书提供商GeoTrust和钓鱼攻击信息厂商PhishTank合作提供反钓鱼式攻击功能，二者分别提供白名单和黑名单。9.5版时，又添加了NetCraft和HaultSecure作为信息来源。当从桌面版访问受举报的网站时，会出现地址为opera:fraud-warning的页面反映相关细节；而从Mini版访问受举报的网址时，则一般是直接返回404页面，系统细节不详，但反钓鱼服务的提供毫无悬念。
+## 适用于Opera和Opera Mini
+### 反钓鱼
+Opera自桌面版9.1起，与数字证书提供商GeoTrust和钓鱼攻击信息厂商[PhishTank](https://zh.wikipedia.org/zh-cn/PhishTank)合作提供反[钓鱼式攻击](https://zh.wikipedia.org/zh-cn/%E9%92%93%E9%B1%BC%E5%BC%8F%E6%94%BB%E5%87%BB)功能，二者分别提供白名单和[黑名单](https://zh.wikipedia.org/zh-cn/%E9%BB%91%E5%90%8D%E5%96%AE)。9.5版时，又添加了NetCraft和HaultSecure作为信息来源。当从桌面版访问受举报的网站时，会出现地址为opera:fraud-warning的页面反映相关细节；而从Mini版访问受举报的网址时，则一般是直接返回404页面，系统细节不详，但反钓鱼服务的提供毫无悬念。
 
-#### [Opera Link](link.md)
+### Opera Link
 在同一用户的不同设备之间、乃至同一设备不同账户之间同步选定的项目：书签、笔记、快速拨号……与浏览器配合紧密，也是Opera平台下唯一可用的浏览器级书签同步工具。
 
-#### 快速拨号
+### 快速拨号
 Opera Mini固有的功能，可以通过“*”键+数字键快速定位到预设网站，在Opera 9.2被移植到桌面平台，最多可支持4×7=28个快速拨号选项。
 
-#### 快捷键
+### 快捷键
 在Opera中，可以依据使用习惯方便地设定键盘快捷方式。Opera Mini的快捷键是以“*”或“#”开始的两位字符串，只能自定义其中的快速拨号。
 
-#### 搜索管理
+### 搜索管理
 只要网页有搜索框，就可以创建浏览器的搜索，可以调整默认搜索引擎、快速拨号搜索引擎。
 
-#### 皮肤
-包含各种肤色，Opera browser的皮肤可以自行设计并分享，Opera Mini的皮肤暂时还是由Opera公司垄断。
+### 皮肤
+包含各种肤色，Opera browser的皮肤可以自行设计并分享，Opera Mini的皮肤暂时还是由[Opera公司](asa.md)垄断。
 
-#### 消息来源
-功能简单但性能出色的聚合器。原文为Feeds，官方中译千奇百怪，有新闻订阅、网志、网摘、频道等等。有种子预览功能，桌面版和Mini版在功能和架构上都有很大不同。
+### 消息来源
+功能简单但性能出色的[聚合器](https://zh.wikipedia.org/zh-cn/%E8%81%9A%E5%90%88%E5%99%A8)。原文为Feeds，官方中译千奇百怪，有新闻订阅、网志、网摘、频道等等。有种子预览功能，桌面版和Mini版在功能和架构上都有很大不同。
 
-### 适用于Opera和Opera Mobile
-#### 用户脚本
+## 适用于Opera和Opera Mobile
+### 用户脚本
 即User JavaScript，用户可以控制页面中的脚本并按照自己的方式运行。
 
-#### 用户样式表
+### 用户样式表
 即User CSS，用户可以控制页面显示的模式。
 
-#### Widget
+### Widget
 部分版本译为饰件，即与Opera同步运行的小控件，可以用来看时钟、玩游戏、四则运算、天气预报、更新状态等等。
 
-#### Opera Dragonfly
-Opera的网页调试工具，支持HTML、CSS、JavaScript。
+### Opera Dragonfly
+Opera的网页调试工具，支持HTML、[CSS](https://zh.wikipedia.org/zh-cn/CSS)、[JavaScript](javascript.md)。
 
-### 适用于Opera Mini和Opera Mobile
+## 适用于Opera Mini和Opera Mobile
+### 智能缩放
 Opera的独有技术，可以根据网页内容自动调整页面大小以在手机屏幕显示。
 
-### 适用于Opera
-#### 鼠标手势
+## 适用于Opera
+### 鼠标手势
 Opera有完整的鼠标手势支持，且含义可以完全自行定义，用户第一次按住右键拖动时触发机关。
 
-#### 语音
-由IBM提供的10.5M插件支持的文语转换功能，可以语音控制浏览，也可以将页面读出，操作系统仅支持Microsoft Windows，语言仅提供英语。
+### 语音
+由[IBM](https://zh.wikipedia.org/zh-cn/IBM)提供的10.5M插件支持的文语转换功能，可以语音控制浏览，也可以将页面读出，操作系统仅支持Microsoft Windows，语言仅提供[英语](https://zh.wikipedia.org/zh-cn/%E8%8B%B1%E8%AF%AD)。
 
-#### 缩略图
+### 缩略图
 当鼠标滑行悬停到标签上方时，弹出该标签页的缩略图，便于及时了解标签状态。
 
-#### 快进快退
+### 快进快退
 Opera独有的浏览方式，快速回复到本标签的最前或最后状态。
 
-#### 页面回收站
+### 页面回收站
 只需按Ctrl-Z（Mac的Command-Z）即可找回最近关闭的标签。
 
-#### 历史搜索
+### 历史搜索
 在历史管理中对有记录以来看过的所有页面进行搜索。
 
-#### 快速参数
+### 快速参数
 当即打开或关闭页面中的弹出窗口、动画、声音、Java、插件、JavaScript、Cookies等等。
 
-#### 密码魔棒
+### 密码魔棒
 在本地保存网站密码，下一次上同一网站时，无需重复输入用户名密码，点击按钮即可登录。因为存在一定的安全隐患，部分网站禁用了自动登录功能，如Facebook。
 
-#### 隐私控制
+### 隐私控制
 Opera首创了一键删除私人数据的便捷功能，可以将电脑在数秒内交由他人使用。
 
 Opera还提供一种Kiosk模式，完全不保留任何私人数据。这种模式主要用于定制公共场所的公用电脑，一般不适合个人用户。
 
-#### 语言包
+### 语言包
 随时随意切换成任何想要的界面语言，甚至可以制作自己的语言包。
 
-#### 下载管理
+### 下载管理
 不逊于一般专门下载软件的下载管理器，自其诞生以来速度和稳定性在所有浏览器中稳居第一。
 
-#### BT下载
-一个简易的BitTorrent下载客户端，无需加装单独的BT软件。
+### BT下载
+一个简易的[BitTorrent下载客户端](https://zh.wikipedia.org/wiki/BitTorrent%E5%AE%A2%E6%88%B7%E7%AB%AF)，无需加装单独的BT软件。
 
-#### 邮件
-功能丰富的电子邮件客户端，支持POP3、[IMAP](imap.md)、简单邮件传输协议等一切当代主流邮件协议，内置联系人管理和邮件编辑工具。
+### 邮件
+功能丰富的电子邮件客户端，支持[POP3](https://zh.wikipedia.org/zh-cn/%E9%83%B5%E5%B1%80%E5%8D%94%E5%AE%9A)、[IMAP](imap.md)、[SMTP](https://zh.wikipedia.org/zh-cn/%E7%AE%80%E5%8D%95%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)等一切当代主流邮件协议，内置联系人管理和邮件编辑工具。
 
-#### IRC聊天
-最好的IRC客户端之一。
+### IRC聊天
+最好的[IRC](irc.md)客户端之一。
 
-### 适用于Opera Mini
-#### 视频转换
+## 适用于Opera Mini
+### 视频转换
 即使没有视频解码器，OBML也支持压缩转换大部分的网络视频格式，如m.youtube.com。
 
-#### JSR-75
-Java ME的标准，利于访问本机资源，因此可以利用Opera Mini上传、下载，Opera Mini从4.2起对该标准提供完整支持。
+### JSR-75
+[Java ME](https://zh.wikipedia.org/zh-cn/Java_ME)的标准，利于访问本机资源，因此可以利用Opera Mini上传、下载，Opera Mini从4.2起对该标准提供完整支持。
 
 ## 参看
-* Opera
-* Opera Mobile
+* [Opera](browser.md)
+* [Opera Mobile](opera-mobile.md)
 * [Opera Mini](opera-mini.md)
 
 ## 外部链接
 
-* Opera浏览器特征介绍
+* [Opera浏览器特征介绍](https://www.opera.com/features)

@@ -2,8 +2,8 @@
 
 Tizen OS的前身是由Maemo、Moblin合并而成的MeeGo，也吸取了LiMo和bada的一些要素，由Linux基金会、LiMo基金会、英特尔和三星联袂打造。
 
-自从Android兴起之后，移动Linux的开源力量被大量吸引到了Android社区。但MeeGo、LiMo、bada、webOS等发行版仍然在各自为战。除了bada在三星的支持下尚有立足之地，其余几家纷纷在市场竞争中败下阵来。Google趁此形势吞并摩托罗拉进军硬件，欲从Android中获取更大利益，此时业界迫切需要一款能够在一定程度上替代Android的开源解决方案。
+自从[Android](android.md)兴起之后，移动Linux的开源力量被大量吸引到了Android社区。但MeeGo、LiMo、bada、[webOS](webos.md)等发行版仍然在各自为战。除了bada在三星的支持下尚有立足之地，其余几家纷纷在市场竞争中败下阵来。Google趁此形势吞并摩托罗拉进军硬件，欲从Android中获取更大利益，此时业界迫切需要一款能够在一定程度上替代Android的开源解决方案。
 
-2011年9月28日，主持开发MeeGo的英特尔（此时诺基亚已脱逃到Windows阵营）、bada的开发者三星、LiMo（早前一款移动Linux）的支持者LiMo基金会达成协议，推举Linux内核的支持者Linux基金会领导新一代操作系统Tizen OS的开发，发布时就有了中文名称——泰泽。这是第一款拥有官方中文名称的国际级操作系统。
+2011年9月28日，主持开发MeeGo的英特尔（此时诺基亚已脱逃到Windows阵营）、bada的开发者三星、LiMo（早前一款移动Linux）的支持者LiMo基金会达成协议，推举Linux内核的支持者Linux基金会领导新一代[操作系统](os.md)Tizen OS的开发，发布时就有了中文名称——泰泽。这是第一款拥有官方中文名称的国际级操作系统。
 
-泰泽操作系统的基础代码仍然主要来源于MeeGo项目，但其开发平台则不再采用Qt和QML，而切换到了HTML5，包括短信、蓝牙等API也会以HTML5的形式开放出来。同时Tizen SDK也会提供一个内核开发接口，但官方没有宣布是否与POSIX兼容。
+泰泽操作系统的基础代码仍然主要来源于MeeGo项目，但其开发平台则不再采用Qt和QML，而切换到了HTML5，包括短信、蓝牙等[API](api.md)也会以HTML5的形式开放出来。同时Tizen SDK也会提供一个内核开发接口，但官方没有宣布是否与POSIX兼容。

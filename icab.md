@@ -4,8 +4,8 @@ iCab是一款只有Mac版的共享浏览器，由同名德国公司开发。始�
 
 它是世界上最后一个收费的主流浏览器，如果不缴纳20美元/15欧元的使用费，就会在每次打开软件时显示恼人的提示条。
 
-这个浏览器的主要特征Opera、Camino等都已实现，除了与系统的整合度为后二者力所不逮。iCab的设置选项十分丰富，而且能够影响Safari，由于后者的设置项较少，iCab甚至可以作为Safari的一种设置工具。
+这个浏览器的主要特征[Opera](browser.md)、[Camino](camino.md)等都已实现，除了与系统的整合度为后二者力所不逮。iCab的设置选项十分丰富，而且能够影响Safari，由于后者的设置项较少，iCab甚至可以作为Safari的一种设置工具。
 
-iCab在第三版及之前一直使用自己的独立内核。从第四版起采用了来自WebKit的组件，但仍然经过自己改写，而非直接调用Safari的WebKit，这也使得它能够避免Safari的一些常见弊端。
+iCab在第三版及之前一直使用自己的独立内核。从第四版起采用了来自[WebKit](webkit.md)的组件，但仍然经过自己改写，而非直接调用Safari的WebKit，这也使得它能够避免Safari的一些常见弊端。
 
-iCab Mobile在iOS上开发，售价1.99美元，是这一平台上最早的知名第三方浏览器（第一方和第二方分别是指Safari和一些网站提供的专属客户端）。这个版本调用Safari内核，与Safari具有相同的Bug。与桌面版一样，iCab Mobile也是以丰富的设置项作为卖点，例如5.0版本提供了同步显示Firefox Sync的功能。
+iCab Mobile在[iOS](ios.md)上开发，售价1.99美元，是这一平台上最早的知名第三方浏览器（第一方和第二方分别是指Safari和一些网站提供的专属客户端）。这个版本调用Safari内核，与Safari具有相同的Bug。与桌面版一样，iCab Mobile也是以丰富的设置项作为卖点，例如5.0版本提供了同步显示[Firefox Sync](firefox-sync.md)的功能。
