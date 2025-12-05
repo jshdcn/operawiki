@@ -4,4 +4,4 @@ Firefox Sync最初称为Weave，是Mozilla基金会为应对Google撤除Browser 
 
 除此之外，Mozilla还专门发布了一个浏览器Firefox Home以将Firefox Sync延伸到iOS平台，因为苹果的相关限制，这款浏览器是WebKit内核的。
 
-由于其开源属性，任何人都可以架设Firefox Sync服务器，也可以编写Firefox Sync客户端。曾经支持Firefox Sync的第三方浏览器主要有iOS上的360 Web Browser和iCab Mobile。放弃支持的原因与Epiphany类似，即不愿配合Mozilla试图推广OAuth认证而收紧的管控。基于Firefox换壳的浏览器大多兼容Firefox Sync，但也有如Midori因隐私和性能考虑而移除支持。
+由于其开源属性，任何人都可以架设Firefox Sync服务器，也可以编写Firefox Sync客户端。曾经支持Firefox Sync的第三方浏览器主要有iOS上的360 Web Browser和iCab Mobile。放弃支持的原因与[Epiphany](epiphany.md)类似，即不愿配合Mozilla试图推广OAuth认证而收紧的管控。基于Firefox换壳的浏览器大多兼容Firefox Sync，但也有如Midori因隐私和性能考虑而移除支持。
