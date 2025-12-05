@@ -1,0 +1,11 @@
+# WebExtensions
+
+按照自己的想法显示网页，是一个古老的用户需求。浏览器的作用，除了执行网络应用、执行本地应用外，还包括使用本地应用改变网络应用的展现形态。这一技术，被后世称为扩展。
+
+受网景影响，早期浏览器很多都带有自己的扩展机制，如Mozilla的XUL、Opera的Opera扩展等，虽然前者将其称为Add-ons，而后者将其称为Extensions，所指含义为一。其中Mozilla的扩展机制，诞生了Adblock Plus、ChatZilla、Firebug、Lightning、Sage、SimpleMail、SQLite Manager等身怀绝艺、装机必备的著名扩展，甚至成为了用户选择Firefox的一大理由。
+
+但网景留下的机制，过于保护用户利益，使很多网站被改得面目全非，破坏了网站运行者的可持续性。因此当Google Chrome推出扩展机制时，以安全为名，砍掉了很多系统接口，同时建立了Chrome Web Store用于扩展的发行。尽管前期允许crx文件的离线安装，但随着Chrome的升级，权限不断收紧。实践证明，Chrome自身的扩展机制（Google甚至都懒得取一个商品名，简单将其称为Extensions）未见多么高明，但Chrome Web Store的影响力随着Chrome市场份额的增长与日俱增。Chromium系的Edge、Opera等也就势放弃了自己本就不怎么流行的扩展系统，转而采用Chrome的crx包装格式。
+
+最后妥协的是Mozilla Firefox，2017年发布的57版放弃了近20年来引以为傲的扩展系统，转而采用一个类似Chrome的实现。为了与XUL相区分，Mozilla给这套新机制命名为WebExtensions。这在Mozilla社团引起了轩然大波，许多开发者，包括那些坚持不发布Chrome版本的开发者，愤怒地拒绝了向新架构迁移的提议。许多用户，也因此离开了Mozilla社团，尽管他们最喜爱的替代方案，奉行Mozilla原教旨的Brave，早在一年前就叛投了Chromium阵营，一如同样发生在Opera与Vivaldi之间的故事。至今只有Safari还在坚持不向Google妥协，而是基于自己的App Store继续兜售自己的方案。
+
+各家的兼容模式略有差别，如Opera一度彻底放弃了自己的扩展商店，完全兼容Google的，直至Opera 20才恢复双重兼容，Edge既兼容Chrome Web Store，同时也维护了自己的扩展商店，Firefox则仅仅是在API层面复制了Blink extension API，而维持了独立自主的Add-ons商店和xpi包装格式。

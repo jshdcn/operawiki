@@ -1,0 +1,37 @@
+# WebKit
+
+WebKit是Mac OS X v10.3及以上版本所包含的软件框架（对v10.2.7及以上版本也可通过软件更新获取）。 同时，WebKit也是Mac OS X的Safari的基础。WebKit是一个开源项目，主要由KDE的KHTML修改而來並且包含了一些来自苹果公司的一些组件。
+
+传统上，WebKit包含一个网页引擎WebCore和一个脚本引擎JavaScriptCore，它们分别对应的是KDE的KHTML和KJS。不过，随着JavaScript引擎的独立性越来越强，现在WebKit和WebCore已经基本上混用不分（例如Chromium和Maxthon 3采用V8引擎，却仍然宣称自己是WebKit内核）。
+
+## 跨平台之路
+苹果公司在设计WebKit之时加入了太多Mac OS X平台的独有事物，这给向其它系统的移植造成了很大障碍。不过，由于WebKit出色的开源特性，这些障碍正在被不断克服。
+
+### Symbian
+2005年，诺基亚的S60团队成为手机端WebKit的先驱，他们将WebKit框架移植到了Symbian S60平台，作为S60第三版的浏览器内核。
+
+尽管这一浏览器颇为人诟病，但S60WebKit仍然是整个Symbian平台最重要的WebKit项目。
+
+### iOS
+2007年6月29日，iPhone上市，WebKit进入iOS平台。按照苹果公司的规定，iOS平台所有浏览器均必须采用该排版引擎。
+
+包括UC浏览器、Opera Mini、Firefox Home在内的后装浏览器为了打入iOS市场，均屈从了苹果公司这一规定。
+
+直至2024年，为满足数字市场法案，iOS的17.4版本，才对欧盟地区开放了排版引擎选择权。
+
+### Windows
+2008年3月18日，Safari 3.1 for Windows转正，解决了Windows平台下WebKit一直存在的部分兼容性问题。同年9月3日推出的Google Chrome使得这一平台进一步成熟。傲游浏览器自第3版开始使用WebCore和Trident双内核设计，是首个采用这种设计的主流浏览器，其内核基于官方支持版本汇编。而世界之窗、搜狗浏览器、QQ浏览器、360浏览器等也纷纷跟随这一步伐，在自己的Windows版本中添加了WebKit引擎。
+
+而在Windows Mobile战线，领先推出稳定版的是RIM旗下拓驰公司的Iris Browser。
+
+Windows是除Mac OS X外另一个得到WebKit官方支持的版本。
+
+### Linux
+2008年10月22日投入市场的Android，其内置浏览器Google Chrome Lite是第一款Linux平台的稳定版WebKit浏览器，能够与之并驾齐驱的是webOS的内置浏览器。而到晚些时候，三星的bada，以及Android下浩如烟海的壳浏览器，也都是使用了WebKit内核。
+
+而在桌面Linux战线，Midori是多年来Linux下WebCore的主要开发者，自从GNOME和Google踏入这一领域后其地位饱受挑战。GNOME的Epiphany自2.8版起采用了WebCore组件，而Google Chrome的Linux版也于2009年11月23日如期进入Beta，从而改变了Midori孤身奋战的局面。此后，Flock也转向了WebKit内核。
+
+尽管WebKit的原型K内核是由Qt写成，但Linux下Chrome采用的却是GNU网络对象模型环境领导的WebKit/Gtk+（这种现象的原因之一在于Objective-C和GTK+都是基于C语言，而Qt是基于C++）。随着奇趣科技于2008年6月被诺基亚收购，Qt方面也加快了WebKit的“回归”进程。Arora和Rekonq便是用QtWebKit写就。
+
+## 应用
+作为最早的WebCore浏览器，Safari长期保持Mac OS下最快浏览器的桂冠，它与新科状元Chrome的龙争虎斗也是WebCore世界最受瞩目的焦点。Google Chrome自2009年起已超过Safari成为WebCore内核市占率最高的浏览器，成为WebCore平台事实上的领导者，并且经常提出有益的修改。其首创的V8引擎和扩展机制大大丰富了WebCore阵营的选择。这使得2013年Blink的分叉变得顺理成章。

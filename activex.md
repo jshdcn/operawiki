@@ -1,0 +1,3 @@
+# ActiveX
+
+网络化多媒体对象技术。ActiveX技术是指OLE技术在Internet上的延伸，它以OLE和COM为基础加入了自己的新技术，从而方便了Internet应用程序的编写。

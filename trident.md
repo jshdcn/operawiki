@@ -1,0 +1,7 @@
+# Trident
+
+Trident于1997年问世，是现存最古老的网页排版引擎，由微软为Windows版本的Internet Explorer 4设计，并在后续版本中沿用。Trident是该操作系统的内核级组件，即使在没有安装IE的Windows，也能够通过其它程序，如Windows档案总管，来调用Trident引擎。
+
+Trident既闭源，又捆绑了Windows平台的许多独有事物，而微软倾向于在不同的操作系统使用不同的排版引擎，所以在四大排版引擎中，它是唯一未能实现跨平台的一个。其它平台模拟Trident的项目，如IEs4Linux，至今未能取得理想的效果。尽管如此，还是有很多Windows平台应用程序调用Trident来渲染它们的页面，如傲游、MSN Explorer等“壳浏览器”，以及RealPlayer、Windows Media Player这样对排版没有什么要求的客户端软件等。
+
+虽然微软设计Trident的主要初衷仅仅是为Windows平台提供公共渲染引擎，但是随着IE浏览器的垄断，Trident开始被很多网页设计者误当作网页标准来执行。这不仅进一步伤害到了其它浏览器，也使得Mac下的同门兄弟Tasman排版引擎左右为难。并且由于Trident开发保守，不能及时支持一些新的技术，这种情形甚至延缓了互联网的发展进程。

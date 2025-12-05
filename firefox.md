@@ -1,0 +1,41 @@
+# Mozilla Firefox
+
+Mozilla Firefox是全球五大浏览器中唯一100%开源的，提供Windows、Mac、桌面Linux、Android和iOS版本，并通过其Linux和Android版本间接支持Chrome OS。 由Mozilla基金会旗下的Mozilla公司主持开发。
+
+Mozilla基金会最初开发Firefox时，其旗舰产品还是网景通讯家的技术传人、SeaMonkey的前身——Mozilla Suite。试验性地分拆套件，主要是为了以更快的速度迭代内核和平台部分，避免太多的功能拖累与IE的竞争。独立浏览器计划最初称为Phoenix，后改名为Firebird，因为改来改去都存在品牌冲突，只好定为Firefox。
+
+尽管普遍被称为网景的后继者，但严格来讲只能算是网景导航者的继承人。Mozilla基金会决定放弃2006年4月21日发布的最后一版Mozilla Suite，转向以Firefox作为它的旗舰产品。AOL推出的第9版网景浏览器直接建基于Firefox，奠定了后者Gecko之王的地位。作为回报，Mozilla公共许可证默许了其采用Gecko内核而不开源。
+
+Firefox能有今日的地位，很大程度上与Google密不可分。2005年，Firefox力压Gmail荣获当时备受瞩目的PCWorld 100大奖，加上当时Google利用其Adsense渠道大肆推广“装有Google工具栏的Firefox”，使得该浏览器一时间名声大作，从技术圈走向千家万户。但2008年Google推出Chrome后，两家关系开始恶化。到2011年，Google干脆停止了Google工具栏对Firefox的支持。
+
+2009年底，Firefox的全球市场占有率一度超过25%，当时的Firefox 3超越了IE 6、IE 7和IE 8成为市占率最高的单一浏览器版本。但随着Chrome的不断发展，Firefox的市占率开始缓慢下跌。先前采用Gecko内核的许多浏览器项目也开始转投WebKit阵营。
+
+Gecko大跃进之后，Firefox开始追随Chrome的步伐快速迭代主版本号，7.0版本解决了积怨已久的内存占用问题，但其功能并未有相应的大幅提升。
+
+Firefox的功能主要由Gecko排版引擎和XUL扩展平台提供。其本身也是基于XUL书写。Firefox的扩展性公认十分强大，有很多ChatZilla、SQLite Manager这样的独门扩展，最早的浏览器级操作系统即是基于其而建立。
+
+* 100%开放源码，没有任何闭源模块；
+
+* 安全性好，与Google Safe Browsing服务无缝整合；
+
+* 用户界面友好，采用了大多数用户习惯的快捷键；
+
+* 丰富免费的扩展机制，连Awesome Bar亦可定制；
+
+* 丰富漂亮的皮肤风格；
+
+* 丰富多样的系统设置选项，精细到网站级别；
+
+* 支援包括Esperanto在内的近百种语言，且每种语言都有对应的下载地址以及相关的帮助文档；
+
+* 隐私为先，完全本地运行的Firefox Translation；
+
+* 内存占用合理，即使在老旧电脑上也能流畅运行。
+
+Firefox获得今日的市场地位，与Google的鼎力支持密不可分，但自从Google推出自己的网页浏览器Chrome之后，这一联盟面临瓦解。虽然拥有网景的优良基因，但是全凭网景系自己的力量，Firefox难以长期保持对Chrome的优势。Facebook早于IE版数年发布了Firefox工具栏，Twitter和微软也提供了定制版的Firefox。但人们担心，网站之间的斗争难免会影响到浏览器的网络中立原则。
+
+随着网络时代的到来，本地扩展到底还有多大空间值得挖掘正在遭遇怀疑。其对手Chrome、Safari和Opera都选择了基于网页技术的，规模小得多的扩展机制，从而集中精力生产更快的浏览器。而Firefox由于需要兼顾XUL而拖慢了运行速度，致使在速度竞争中始终不占上风。2017年发布的Firefox 57版，最终放弃了XUL，转投WebExtensions阵营。
+
+尽管其主要竞争对手IE和Chrome在企业领域都有较大投入和斩获，Mozilla却明确声称不进入企业市场。
+
+Firefox对IPv4和IPv6混合组网下的SSL支持是一个噩梦。

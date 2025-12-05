@@ -1,0 +1,7 @@
+# iSkoot
+
+iSkoot是专注于智能手机直拨Skype解决方案的供应商。由于与Skype的特殊关系，可以称之为半官方的Skype。
+
+Skype三大预装解决方案中最著名的3 Skypephone上装载的就是iSkoot。除此之外，iSkoot是世界上第一家在Symbian手机上实现Skype全功能的软件，也是第一家在Android上实现Skype全功能的软件，Palm OS上的Skype基本也由它独家供应。
+
+iSkoot的实现原理是利用遍布全球的交换机提供PSTN服务，再通过这些交换机连到Skype的服务器对外接通，以将价格不菲的长途电话转为本地电话加少许Skype服务费。

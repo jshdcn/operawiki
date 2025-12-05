@@ -1,0 +1,13 @@
+# Camino
+
+Camino是Mozilla基金会特别针对Mac OS X平台所推出的浏览器，秉承独特的设计风格和高度的系统整合。
+
+最初为Camino选定的名字是Chimera，希腊神话里一个狮头羊身蛇尾的吐火怪兽。后来发现和Unix系统上的一款图像界面浏览器重名了，乃于2003年3月3日改为今名。
+
+从名字不是自然现象+动物可以看出，Camino并非Mozilla的重要产品。事实上，这个计划是由Mozilla基金会的Mike Pinkerton一手提携起来的。但由于Mick加盟Google，Camino已经年久失修，关注度也越来越低。
+
+随着Gecko大跃进，Camino已经完全跟不上脚步，至今还维持在Gecko 1.9，远远落后于Firefox、Thunderbird和SeaMonkey。
+
+它只支援網頁瀏覽，並不包括郵件收發、網頁編寫等功能。排版方面，使用了自家的Gecko排版引擎；在编程方面，使用了Cocoa去取代自家的XUL。虽然不支持XUL扩展系统，但是Camino还是设法构筑了自己的较小规模的扩展机制。Firefox的一些著名扩展在Camino下内建支持，如Flashblock。此外，它还整合了系统的Aqua用户界面、Keychain密码管理和Bonjour书签查询。
+
+三大桌面操作系统的专属Gecko浏览器（K-Meleon、Galeon、Camino）中，只有Camino挂在Mozilla的官方名下。有人认为，Mozilla产品线上的三大浏览器项目，Firefox对应的竞争对手是Google Chrome，SeaMonkey用于挑战Opera，而Camino的存在则仅仅因为Safari。

@@ -1,0 +1,9 @@
+# Gemini
+
+Gemini是Google公司的AI品牌，既用于其大语言模型，也用于在其基础上构建的一系列AI应用。
+
+Google及其全资子公司DeepMind，长久以来一直是AI领域的执牛耳者，开发的AlphaGo和AlphaZero给人们留下了深刻的印象。但在大语言模型领域，最先出圈的却是OpenAI开发的ChatGPT。这给Google造成的震惊可想而知，他们匆忙反应，开发了Bard作为竞品，却在市场和口碑上双重惨败。于是痛定思痛，将Google Brain和DeepMind进行了重组，并于2024年推出了新款聊天机器人，更名为Gemini。
+
+Gemini模型根据参数规模分为数个大小不同的版本，其中Gemini完整版性能强劲，可以跻身一流梯队，与GPT、Grok等闭源标杆一决雌雄。而其端侧版本Gemini Nano则小到可以安装在Chrome浏览器上，提供完全本地的运算。Chrome甚至为之提供了JavaScript接口，使网页可以调用本地算力进行AI输出。但这个用法未免画蛇添足，是以从128版本推进到Dev通道，直到138版本才算稳定发布。反倒设备厂商有比较强的部署动力，三星、荣耀、Pixel在其部分机型上均有预装Gemini Nano，而Vivo、Oppo、华为则选择了自研。
+
+此外Google还有一个完全开源的Gemma模型，与Gemini Nano设计理念和参数规模相仿，但不是一个东西，类似于[Chromium](./chromium.md)和Chrome的关系。
