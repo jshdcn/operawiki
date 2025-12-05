@@ -1,10 +1,10 @@
 # Opera Mini
 
-Opera Mini是一款挪威的Opera软件公司制作的，用于在移动电话或平板电脑上使用的网络浏览器，可浏览万维网及WAP网站。
+Opera Mini是一款挪威的[Opera软件公司](asa.md)制作的，用于在移动电话或平板电脑上使用的网络浏览器，可浏览万维网及WAP网站。
 
 与桌面版和Opera Mobile不同，浏览时先由Opera公司位于世界各地的代理服务器对所请求的网页进行压缩和优化以适应设备的屏幕宽度，再使用SSL加密协议传输到浏览器上显示。由于不同代理服务器能够接触到的互联网范围各不相同，许多通过美国服务器能够正常访问的网站使用中国服务器时就会出错。而访问速度则是以客户端到服务器和服务器到网站二者中慢者为限。
 
-该软件最早使用Java编写，适用于绝大多数支持J2ME的手机，以及采用Java语言作为开发平台的Android、BlackBerry OS和Palm OS。后来，也移植到了C语言并支持了Windows Mobile、iOS、S60、BREW和BREW MP平台，其中BREW版本只通过预置渠道发售，BREW MP版本的自行安装比例亦较小。每月有超过一亿台Opera Mini上线，是目前市场占有率第二大的移动浏览器。
+该软件最早使用Java编写，适用于绝大多数支持J2ME的手机，以及采用Java语言作为开发平台的[Android](android.md)、BlackBerry OS和Palm OS。后来，也移植到了C语言并支持了Windows Mobile、[iOS](ios.md)、S60、BREW和BREW MP平台，其中BREW版本只通过预置渠道发售，BREW MP版本的自行安装比例亦较小。每月有超过一亿台Opera Mini上线，是目前市场占有率第二大的移动浏览器。
 
 ## 历史
 
@@ -34,7 +34,7 @@ Opera Mini是一款挪威的Opera软件公司制作的，用于在移动电话�
 
 采用OBML技术压缩网页，提高速度可达五倍，节约流量可达八成。
 
-**Opera Link**
+**[Opera Link](link.md)**
 
 可以通过个人注册的帐户，免费在Opera服务器上保存书签、笔记、快速拨号、网源订阅和搜索，并可在包括Opera和Opera Mobile在内的多种上网终端间同步这些信息。
 
@@ -52,74 +52,12 @@ Opera Mini的衍生版本多数由Opera自身推出，也有一部分是各国�
 
 衍生版本的目的多是指定特定的服务器，也有的根据需要对功能进行增加或删减。下表列出了一些常见的Opera Mini衍生版。
 
-<table xmlns="http://www.w3.org/1999/xhtml" data-table-local-id="table-2">
-  <tbody>
-    <tr>
-      <td>版本名称</td>
-      <td>指定服务器</td>
-      <td>Opera Link</td>
-      <td>功能增减</td>
-      <td>提供版本</td>
-      <td>支援平台</td>
-    </tr>
-    <tr>
-      <td>国际版</td>
-      <td>自动</td>
-      <td>有</td>
-      <td>原版</td>
-      <td>1~6</td>
-      <td>Android、BB、iOS、J2ME、S60、WM</td>
-    </tr>
-    <tr>
-      <td>中国版</td>
-      <td>中国</td>
-      <td>独立</td>
-      <td>不变</td>
-      <td>4（仅J2ME）、5</td>
-      <td>Android、J2ME、S60</td>
-    </tr>
-    <tr>
-      <td>空中版</td>
-      <td>中国空中</td>
-      <td>独立</td>
-      <td>增强</td>
-      <td>3、4</td>
-      <td>J2ME</td>
-    </tr>
-    <tr>
-      <td>Verizon版</td>
-      <td>美国Verizon</td>
-      <td>无</td>
-      <td>删减</td>
-      <td>
-        5
-        <br />
-      </td>
-      <td>Android、J2ME</td>
-    </tr>
-    <tr>
-      <td>欧朋版</td>
-      <td>中国天音</td>
-      <td>无</td>
-      <td>增强</td>
-      <td>6</td>
-      <td>Android、J2ME、S60</td>
-    </tr>
-    <tr>
-      <td>俄版</td>
-      <td>自动，部分版本可指定</td>
-      <td>无</td>
-      <td>增强</td>
-      <td>2、3</td>
-      <td>J2ME</td>
-    </tr>
-    <tr>
-      <td>自由门版</td>
-      <td>美国</td>
-      <td>有</td>
-      <td>不变</td>
-      <td>4</td>
-      <td>J2ME、WM</td>
-    </tr>
-  </tbody>
-</table>
+| 版本名称 | 指定服务器 | Opera Link | 功能增减 | 提供版本 | 支援平台 |
+| --- | --- | --- | --- | --- | --- |
+| 国际版 | 自动 | 有 | 原版 | 1~6 | [Android](android.md)、BB、iOS、J2ME、S60、WM |
+| 中国版 | 中国 | 独立 | 不变 | 4（仅J2ME）、5 | Android、J2ME、S60 |
+| 空中版 | 中国空中 | 独立 | 增强 | 3、4 | J2ME |
+| Verizon版 | 美国Verizon | 无 | 删减 | 5 | Android、J2ME |
+| 欧朋版 | 中国天音 | 无 | 增强 | 6 | Android、J2ME、S60 |
+| 俄版 | 自动，部分版本可指定 | 无 | 增强 | 2、3 | J2ME |
+| 自由门版 | 美国 | 有 | 不变 | 4 | J2ME、WM |

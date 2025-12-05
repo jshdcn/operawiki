@@ -8,130 +8,20 @@ Presto在推出后不断有更新版本推出，修正不少错误，以及优�
 
 ### Presto的历史及使用的产品
 
-<table xmlns="http://www.w3.org/1999/xhtml" data-table-local-id="table-2">
-  <tbody>
-    <tr>
-      <td>Presto版本</td>
-      <td>配合使用的脚本引擎</td>
-      <td>代号</td>
-      <td>Opera浏览器</td>
-      <td>
-        <a>Opera Mobile</a>
-      </td>
-      <td>新功能</td>
-    </tr>
-    <tr>
-      <td>pre Presto</td>
-      <td></td>
-      <td></td>
-      <td>3.5</td>
-    </tr>
-    <tr>
-      <td>pre Presto</td>
-      <td>Linear A</td>
-      <td>Elektra</td>
-      <td>4.0</td>
-    </tr>
-    <tr>
-      <td>1.0</td>
-      <td>Linear B</td>
-      <td>?</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>2.0</td>
-      <td>Linear B</td>
-      <td>Merlin</td>
-      <td>9.0</td>
-    </tr>
-    <tr>
-      <td>pre 2.1</td>
-      <td></td>
-      <td></td>
-      <td>Internet Channel</td>
-    </tr>
-    <tr>
-      <td>2.1</td>
-      <td>Futhark</td>
-      <td>Kestrel</td>
-      <td>9.5</td>
-      <td>9.5</td>
-    </tr>
-    <tr>
-      <td>2.1.1</td>
-      <td>Futhark</td>
-      <td>Kestrel</td>
-      <td>9.6</td>
-      <td></td>
-      <td>Scope传输协议</td>
-    </tr>
-    <tr>
-      <td>2.2</td>
-      <td>Futhark</td>
-      <td>Peregrine</td>
-      <td>10</td>
-      <td>9.7</td>
-      <td>TLS 1.2</td>
-    </tr>
-    <tr>
-      <td>2.3</td>
-      <td>Futhark</td>
-      <td>Peregrine</td>
-      <td>10.1</td>
-      <td>
-        <br />
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2.4</td>
-      <td>Carakan</td>
-      <td>Peregrine</td>
-      <td></td>
-      <td>10</td>
-      <td>Canvas阴影、Web存储</td>
-    </tr>
-    <tr>
-      <td>2.5</td>
-      <td>Carakan</td>
-      <td>Evenes</td>
-      <td>10.5</td>
-      <td>10.1</td>
-      <td>地理定位</td>
-    </tr>
-    <tr>
-      <td>2.6</td>
-      <td>Carakan</td>
-      <td>Evenes</td>
-      <td>10.6</td>
-      <td>
-        <br />
-      </td>
-      <td>事件、错误处理</td>
-    </tr>
-    <tr>
-      <td>2.7</td>
-      <td>Carakan</td>
-      <td>Kjevik</td>
-      <td>11.0</td>
-      <td>11.0</td>
-      <td>HTML5表单</td>
-    </tr>
-    <tr>
-      <td>2.8</td>
-      <td>Carakan</td>
-      <td>Barracuda</td>
-      <td>11.1</td>
-      <td>11.1</td>
-      <td>WebP、文件API</td>
-    </tr>
-    <tr>
-      <td>2.9</td>
-      <td>Carakan</td>
-      <td>Swordfish</td>
-      <td>11.5</td>
-      <td>11.5</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Presto版本 | 配合使用的脚本引擎 | 代号 | [Opera浏览器](browser.md) | <a>[Opera Mobile](opera-mobile.md)</a> | 新功能 |
+| --- | --- | --- | --- | --- | --- |
+| pre Presto |  |  | 3.5 |  |  |
+| pre Presto | Linear A | [Elektra](elektra.md) | 4.0 |  |  |
+| 1.0 | Linear B | ? | 7 |  |  |
+| 2.0 | Linear B | Merlin | 9.0 |  |  |
+| pre 2.1 |  |  | Internet Channel |  |  |
+| 2.1 | Futhark | Kestrel | 9.5 | 9.5 |  |
+| 2.1.1 | Futhark | Kestrel | 9.6 |  | Scope传输协议 |
+| 2.2 | Futhark | Peregrine | 10 | 9.7 | TLS 1.2 |
+| 2.3 | Futhark | Peregrine | 10.1 |  |  |
+| 2.4 | Carakan | Peregrine |  | 10 | Canvas阴影、Web存储 |
+| 2.5 | Carakan | Evenes | 10.5 | 10.1 | 地理定位 |
+| 2.6 | Carakan | Evenes | 10.6 |  | 事件、错误处理 |
+| 2.7 | Carakan | Kjevik | 11.0 | 11.0 | HTML5表单 |
+| 2.8 | Carakan | Barracuda | 11.1 | 11.1 | WebP、文件API |
+| 2.9 | Carakan | Swordfish | 11.5 | 11.5 |  |
