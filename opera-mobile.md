@@ -1,10 +1,10 @@
 # Opera Mobile
 
-Opera Mobile是由Opera软件公司开发的，用于在智能手机和个人数码助理上浏览网页的网页浏览器。
+Opera Mobile是由[Opera软件公司](asa.md)开发的，用于在智能手机和个人数码助理上浏览网页的网页浏览器。
 
 Opera Mobile的开发理念与桌面版基本相同，本地直连解析，全网页显示。唯缩减了客户端、服务器等附加功能。
 
-Opera Mobile支持多种操作系统，包括Android、MeeGo、Windows、MTK、BREW，以及不再提供更新版本的Psion、Windows Mobile、S60、UIQ、Maemo等。支持的语言多达40种。
+Opera Mobile支持多种[操作系统](os.md)，包括[Android](android.md)、MeeGo、[Windows](windows.md)、MTK、BREW，以及不再提供更新版本的Psion、Windows Mobile、S60、UIQ、Maemo等。支持的语言多达40种。
 
 ## 预先安装
 
@@ -17,32 +17,15 @@ Opera Mobile支持多种操作系统，包括Android、MeeGo、Windows、MTK、B
 2003年，Opera Mobile被移植到Windows Mobile平台，随即开始了预装活动。由于性能远胜自带的IE Mobile，且价格比用户单独购买便宜很多，厂商对此趋之若鹜。预装Opera Mobile的知名WinMobile机型有：
 
 * HTC Touch Diamond
-HTC Touch Diamond
-
 * HTC Touch Diamond2
-HTC Touch Diamond2
-
 * HTC Touch Pro
-HTC Touch Pro
-
 * HTC Touch Pro2
-HTC Touch Pro2
-
 * HTC Touch HD
-HTC Touch HD
-
 * HTC HD Mini
-HTC HD Mini
-
 * HTC HD2
 * Samsung i900 Omnia
-Samsung i900 Omnia
-
 * Samsung i8000 Omnia II
-Samsung i8000 Omnia II
-
 * Sony Ericsson XPERIA X1
-Sony Ericsson XPERIA X1
 
 2007年，诺基亚与Opera达成合作，在其N90等S60手机上预装Opera Moible，取得不俗销量。
 
@@ -64,7 +47,7 @@ Sony Ericsson XPERIA X1
 
 2005年11月14日，发布8.5。
 
-2006年4月5日，发布8.6，首度支援SVG。
+2006年4月5日，发布8.6，首度支援[SVG](svg.md)。
 
 2006年8月29日，发布8.65，这是Opera Mobile历史上最后一个直接面向终端用户收费的版本。
 

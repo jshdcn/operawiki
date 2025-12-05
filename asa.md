@@ -53,13 +53,13 @@ Opera软件公司名义上为一切可以上网的设备制造浏览器，但实
 ### 浏览器相关产品
 |  | Opera | Mobile | Mini | WinMobile | Symbian | Android |
 | --- | --- | --- | --- | --- | --- | --- |
-| * [Opera Link](link.md) | 内建 | 内建 | 内建 |  |  |  |
-| * [Opera Turbo](turbo.md) | 内建 | 内建 |  |  |  |  |
-| * [Opera邮件](m2.md) | 内建 |  |  |  |  |  |
-| * [Opera蜻蜓](dragonfly.md) | 内建 |  |  |  |  |  |
-| * [Opera Unite](unite.md) | 内建 |  |  |  |  |  |
-| * [Opera扩展](extension.md) | 内建 |  |  |  |  |  |
-| * [Opera Widget](widget.md) | 内建 |  |  | 有 | 有 | 有 |
+| *[Opera Link](link.md)* | 内建 | 内建 | 内建 |  |  |  |
+| *[Opera Turbo](turbo.md)* | 内建 | 内建 |  |  |  |  |
+| *[Opera邮件](m2.md)* | 内建 |  |  |  |  |  |
+| *[Opera蜻蜓](dragonfly.md)* | 内建 |  |  |  |  |  |
+| *[Opera Unite](unite.md)* | 内建 |  |  |  |  |  |
+| *[Opera扩展](extension.md)* | 内建 |  |  |  |  |  |
+| *[Opera Widget](widget.md)* | 内建 |  |  | 有 | 有 | 有 |
 
 ### 其他产品
 * My Opera：久负盛名的社交网站，兼具Opera官方论坛职能，技术水平有口皆碑。自从GFW开启以来从未在中国大陆解封。根据Opera官方对代理服务器收集的数据[1]所作的统计，My Opera在众多国家使用Opera Mini的人群中位列前十大网站，当然这与Opera Mini内置链接有关。

@@ -2,7 +2,7 @@
 
 这里起先是一个关于Opera公司及其产品的知识网站，由于其创始人不过居士不满维基媒体的协议更改，脱离维基百科独立而成，辗转迁移至此。但之后也陆续发表了一些相干不相干的其它条目，逐渐形成一个以Opera为中心的IT综合百科网站。本站全部内容依据《学术著作权责声明》发表，这个声明与GFDL和CC-by-sa都是双向不兼容，在没有原始版权所有者授权的情况下，是不会把维基百科的内容直接复制而来。更具体的说明，请参见《关于版权》。
 
-内容提要
+## 内容提要
 
 == 公司 ==
 * [Opera软件公司](asa.md) - [Telenor](telenor.md) / KDE - [Mozilla基金会](mozilla.md) - [NCSA](ncsa.md)
@@ -10,7 +10,7 @@
 == [排版引擎](engine.md) ==
 * [Elektra](elektra.md) - [Presto](presto.md) - Blink / [Trident](trident.md) - [Gecko](gecko.md) - KHTML - [WebKit](webkit.md)
 * Futhark - Carakan - [V8](v8.md) / KJS - [SpiderMonkey](spidermonkey.md)
-* [Vega](vega.md) / [Batik](batik.md) - KSVG - [Mozilla SVG Project](mozilla-[svg](svg.md)-project.md) - [cairo](cairo.md)
+* [Vega](vega.md) / [Batik](batik.md) - KSVG - [Mozilla SVG Project](mozilla-svg-project.md) - [cairo](cairo.md)
 
 == 网络套件 ==
 * [Opera浏览器](browser.md) / [SeaMonkey](seamonkey.md)

@@ -36,7 +36,7 @@ Opera Mini是一款挪威的[Opera软件公司](asa.md)制作的，用于在移�
 
 **[Opera Link](link.md)**
 
-可以通过个人注册的帐户，免费在Opera服务器上保存书签、笔记、快速拨号、网源订阅和搜索，并可在包括Opera和Opera Mobile在内的多种上网终端间同步这些信息。
+可以通过个人注册的帐户，免费在Opera服务器上保存书签、笔记、快速拨号、网源订阅和搜索，并可在包括[Opera](browser.md)和[Opera Mobile](opera-mobile.md)在内的多种上网终端间同步这些信息。
 
 **Opera Zoom<sup>TM</sup>智能缩放技术**
 
@@ -54,7 +54,7 @@ Opera Mini的衍生版本多数由Opera自身推出，也有一部分是各国�
 
 | 版本名称 | 指定服务器 | Opera Link | 功能增减 | 提供版本 | 支援平台 |
 | --- | --- | --- | --- | --- | --- |
-| 国际版 | 自动 | 有 | 原版 | 1~6 | [Android](android.md)、BB、iOS、J2ME、S60、WM |
+| 国际版 | 自动 | 有 | 原版 | 1~6 | Android、BB、iOS、J2ME、S60、WM |
 | 中国版 | 中国 | 独立 | 不变 | 4（仅J2ME）、5 | Android、J2ME、S60 |
 | 空中版 | 中国空中 | 独立 | 增强 | 3、4 | J2ME |
 | Verizon版 | 美国Verizon | 无 | 删减 | 5 | Android、J2ME |
