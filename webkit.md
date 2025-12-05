@@ -12,21 +12,21 @@ WebKit是Mac OS X v10.3及以上版本所包含的软件框架（对v10.2.7及�
 
 尽管这一浏览器颇为人诟病，但S60WebKit仍然是整个Symbian平台最重要的WebKit项目。
 
-### iOS
+### [iOS](ios.md)
 2007年6月29日，iPhone上市，WebKit进入iOS平台。按照苹果公司的规定，iOS平台所有浏览器均必须采用该排版引擎。
 
-包括UC浏览器、Opera Mini、Firefox Home在内的后装浏览器为了打入iOS市场，均屈从了苹果公司这一规定。
+包括UC浏览器、[Opera Mini](opera-mini.md)、Firefox Home在内的后装浏览器为了打入iOS市场，均屈从了苹果公司这一规定。
 
 直至2024年，为满足数字市场法案，iOS的17.4版本，才对欧盟地区开放了排版引擎选择权。
 
 ### Windows
-2008年3月18日，Safari 3.1 for Windows转正，解决了Windows平台下WebKit一直存在的部分兼容性问题。同年9月3日推出的Google Chrome使得这一平台进一步成熟。傲游浏览器自第3版开始使用WebCore和Trident双内核设计，是首个采用这种设计的主流浏览器，其内核基于官方支持版本汇编。而世界之窗、搜狗浏览器、QQ浏览器、360浏览器等也纷纷跟随这一步伐，在自己的Windows版本中添加了WebKit引擎。
+2008年3月18日，Safari 3.1 for Windows转正，解决了Windows平台下WebKit一直存在的部分兼容性问题。同年9月3日推出的Google Chrome使得这一平台进一步成熟。傲游浏览器自第3版开始使用WebCore和Trident双内核设计，是首个采用这种设计的主流浏览器，其内核基于官方支持版本汇编。而世界之窗、[搜狗浏览器](sogouie.md)、[QQ浏览器](qqbrowser.md)、360浏览器等也纷纷跟随这一步伐，在自己的Windows版本中添加了WebKit引擎。
 
 而在Windows Mobile战线，领先推出稳定版的是RIM旗下拓驰公司的Iris Browser。
 
 Windows是除Mac OS X外另一个得到WebKit官方支持的版本。
 
-### Linux
+### [Linux](linux.md)
 2008年10月22日投入市场的Android，其内置浏览器Google Chrome Lite是第一款Linux平台的稳定版WebKit浏览器，能够与之并驾齐驱的是webOS的内置浏览器。而到晚些时候，三星的bada，以及Android下浩如烟海的壳浏览器，也都是使用了WebKit内核。
 
 而在桌面Linux战线，Midori是多年来Linux下WebCore的主要开发者，自从GNOME和Google踏入这一领域后其地位饱受挑战。GNOME的Epiphany自2.8版起采用了WebCore组件，而Google Chrome的Linux版也于2009年11月23日如期进入Beta，从而改变了Midori孤身奋战的局面。此后，Flock也转向了WebKit内核。

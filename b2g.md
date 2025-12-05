@@ -2,7 +2,7 @@
 
 *来源: [OperaWiki](https://sites.google.com/site/operawiki/Home)*
 
-B2G意为Boot to Gecko，是Mozilla的一项操作系统计划。其目标是为XUL平台增加控制电话、短信、联系人、照相机、蓝牙等手机基本功能的WebAPI。并将这个增强版本的Firefox直接移植到手机终端，底层采用Android的硬件驱动。
+B2G意为Boot to [Gecko](gecko.md)，是Mozilla的一项操作系统计划。其目标是为XUL平台增加控制电话、短信、联系人、照相机、蓝牙等手机基本功能的WebAPI。并将这个增强版本的Firefox直接移植到手机终端，底层采用Android的硬件驱动。
 
 B2G于2013年起投入市场，商品名为Firefox OS，但彼时Android和iOS正是如日中天，加之定位不清，Firefox OS从未在任何流行设备上得到预装，终于2016年彻底放弃。
 

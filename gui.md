@@ -61,11 +61,11 @@
 现在还有很多一些用户界面，直接用手指、或者特殊的笔端触摸触摸屏上显示的按钮、图标进行各种操作，已经非常普及，如自动取款机ATM，汽车导航、媒体播放器、游戏机等等，一般操作简捷，直观。苹果公司的iPhone手机还有装有多手指操作系统。
 
 ## 采用图形用户界面的操作系统/应用程序
-Smalltalk
-* Mac OS
+* Smalltalk
+* [Mac OS](macos.md)
 * NEXTSTEP
-* Microsoft Windows
-* X Window System (类UnixOS、Linux)
+* [Microsoft Windows](windows.md)
+* X Window System (类UnixOS、[Linux](linux.md))
 * BTRON
 * TownsOS
 * MSX-View
@@ -74,12 +74,12 @@ Smalltalk
 * Newton OS
 * Zaurus OS
 * Palm OS
-* webOS
+* [webOS](webos.md)
 等等。
 
 ## 参看
 * 人机界面
 * 人机交互
-* 命令行界面
+* [命令行界面](cli.md)
 * Linux图形界面
 * WIMP

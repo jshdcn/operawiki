@@ -1,6 +1,6 @@
 # SeaMonkey
 
-SeaMonkey是一个免费的、跨平台的网页浏览器、邮件客户端、HTML编辑器和IRC客户端。它完全符合HTML、XML、CSS、DOM等现代标准，而且软件的源代码是完全开放的。官方版本可在Linux、Windows、Mac下运行，也有志愿者将其移植到FreeBSD等平台。 与名声显赫的Netscape、Mozilla Suite一脉相承，是二者的后继产品。
+SeaMonkey是一个免费的、跨平台的网页浏览器、邮件客户端、HTML编辑器和IRC客户端。它完全符合HTML、[XML](xml.md)、CSS、DOM等现代标准，而且软件的源代码是完全开放的。官方版本可在Linux、Windows、Mac下运行，也有志愿者将其移植到FreeBSD等平台。 与名声显赫的Netscape、Mozilla Suite一脉相承，是二者的后继产品。
 
 ## 分拆
 Netscape自从1996年3月发布2.0版本起加入了电子邮件客户端，并且在3、4、（胎死腹中的5）、6、7版本中沿用了浏览器与客户端共用内核共用界面的产品模式。这一举动影响了相当一部分的浏览器，同年7月发布的Opera 2.0也集成了简单的电邮客户端，并在7.0版本发扬光大成为M2。而Gecko引擎最初的旗手Mozilla Suite同样采取了这种设计，Netscape的6、7两个版本就是基于Mozilla Suite。

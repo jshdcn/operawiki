@@ -12,9 +12,9 @@ Opera Link帐户系统与My Opera、Opera Dev和晚近发布的Opera Unite兼容
 
 2008年10月18日，Opera 9.60正式版引入了搜索的同步，但与Opera Mini的搜索同步各自独立。
 
-2010年3月16日，Opera Mobile 10.00正式版提供书签、快速拨号和搜索同步，与Opera共用。
+2010年3月16日，[Opera Mobile](opera-mobile.md) 10.00正式版提供书签、快速拨号和搜索同步，与Opera共用。
 
-2010年11月3日，Opera Mini 5.1正式版去除了笔记和消息来源订阅功能，快速拨号开始与Opera和Opera Mobile同步。
+2010年11月3日，[Opera Mini](opera-mini.md) 5.1正式版去除了笔记和消息来源订阅功能，快速拨号开始与Opera和Opera Mobile同步。
 
 2010年12月16日，Opera 11.00正式版引入内容阻止规则同步。由于这一版本擅自改变了快速拨号的排列方式，使得之后数月内所有同步客户端的快速拨号顺序颠三倒四，其影响至今犹未消除。
 

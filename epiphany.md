@@ -1,4 +1,4 @@
-# Midori
+# [Midori](midori.md)
 
 Epiphany是GNOME项目中根正苗红的嫡子浏览器。自2012年起被径称为Web。
 

@@ -1,8 +1,10 @@
 # Opera软件公司
-## 历史
-Opera软件公司（挪威语：Opera Software ASA）源自挪威电信公司Telenor于1994年的研究项目，在1995年成为一家独立公司，总部位于挪威首都奥斯陆，在中华人民共和国北京设有代表处。
 
-1992年前后，[谭咏文](jon.md)（Stephen von Tetzchner教授的儿子，教授是通讯领域的顶级专家）和盖尔·伊瓦尔绥在Televerket公司的研究小组工作。当时该小组开发了ODA，一个基于标准的文件存储修复系统，尽管效率很高，但还是没有被广泛应用就销声匿迹了。研究小组还开发了第一个服务器程序并在1993年建立了主页。然后他们觉得Mosaic能实现的结构太单调就决定开发一个新的浏览器。他们在ODA项目中获得灵感，预见到一个能实现多结构的网络浏览器的潜力，同时母公司给他们亮了绿灯。1993年下半年就这个浏览器项目已经开始运行了。
+Opera软件公司（挪威语：Opera Software ASA）源自挪威电信公司[Telenor](telenor.md)于1994年的研究项目，在1995年成为一家独立公司，总部位于挪威首都奥斯陆，在中华人民共和国北京设有代表处。
+
+## 历史
+
+1992年前后，[谭咏文](jon.md)（Stephen von Tetzchner教授的儿子，教授是通讯领域的顶级专家）和[盖尔·伊瓦尔绥](geir.md)在Televerket公司的研究小组工作。当时该小组开发了ODA，一个基于标准的文件存储修复系统，尽管效率很高，但还是没有被广泛应用就销声匿迹了。研究小组还开发了第一个服务器程序并在1993年建立了主页。然后他们觉得Mosaic能实现的结构太单调就决定开发一个新的浏览器。他们在ODA项目中获得灵感，预见到一个能实现多结构的网络浏览器的潜力，同时母公司给他们亮了绿灯。1993年下半年就这个浏览器项目已经开始运行了。
 
 Televerket是挪威最大的电信公司，总部在福尼布，离奥斯陆很近。1994年，Televerket变成一个国有控股公司，在1995年末，改名为Telenor，而Opera软件公司也成立了。Opera软件公司起初仍在Telenor的办公室，但后来迁往奥斯陆。
 
@@ -17,19 +19,20 @@ Televerket是挪威最大的电信公司，总部在福尼布，离奥斯陆很�
 2016年，由昆仑万维、360领衔的财团收购了Opera浏览器业务，并于2018年7月27日重新在纳斯达克上市，股票代码OPRA。而奥斯陆上市公司的剩余业务，则更名为Otello公司，股票代码OTEC。
 
 ## 产品
+
 ### 浏览器产品
 Opera软件公司名义上为一切可以上网的设备制造浏览器，但实际上因为某些商业利益的因素（如Xbox、PSP），Opera浏览器的通行范围仅限于如下平台：
-|  | Opera | Mobile | Mini |
+|  | [Opera](browser.md) | [Mobile](opera-mobile.md) | [Mini](opera-mini.md) |
 | --- | --- | --- | --- |
-| [Android](android.md) |  | 有 | 有 |
+| Android |  | 有 | 有 |
 | BeOS | 停止 |  |  |
 | BlackBerry |  |  | 有 |
 | BREW |  | 定制 | 定制 |
 | Brew MP |  |  | 有 |
 | FreeBSD | 有 |  |  |
-| [iOS](ios.md) |  |  | 有 |
+| iOS |  |  | 有 |
 | Java ME |  |  | 有 |
-| [Linux](linux.md) | 有 |  |  |
+| Linux | 有 |  |  |
 | Mac | 有 |  |  |
 | Maemo |  | 有 |  |
 | MeeGo |  | 有 |  |
@@ -38,30 +41,30 @@ Opera软件公司名义上为一切可以上网的设备制造浏览器，但实
 | Palm |  |  | 有 |
 | Plaszma |  | 定制 |  |
 | Psion |  | 定制 |  |
-| [QNX](qnx.md) | 停止 |  |  |
+| QNX | 停止 |  |  |
 | S60 |  | 有 | 有 |
 | Solaris | 停止 |  |  |
 | UIQ |  | 定制 |  |
 | Windows | 有 | 有 |  |
 | Windows Mobile |  | 停止 | 有 |
 
-同Opera Mobile一样，联网设备Opera被不同的厂家定制，用于从数位视讯转换盒到可携式媒体播放器的各种互联网终端，例如任天堂的DS和Wii。
+同Opera Mobile一样，[联网设备Opera](devices.md)被不同的厂家定制，用于从数位视讯转换盒到可携式媒体播放器的各种互联网终端，例如任天堂的DS和Wii。
 
 ### 浏览器相关产品
 |  | Opera | Mobile | Mini | WinMobile | Symbian | Android |
 | --- | --- | --- | --- | --- | --- | --- |
-| * <a>[Opera Link](link.md)</a> | 内建 | 内建 | 内建 |  |  |  |
-| * <a>[Opera Turbo](turbo.md)</a> | 内建 | 内建 |  |  |  |  |
-| * <a>Opera邮件</a> | 内建 |  |  |  |  |  |
-| * <a>[Opera蜻蜓](dragonfly.md)</a> | 内建 |  |  |  |  |  |
-| * <a>[Opera Unite](unite.md)</a> | 内建 |  |  |  |  |  |
-| * <a>[Opera扩展](extension.md)</a> | 内建 |  |  |  |  |  |
-| * <a>[Opera Widget](widget.md)</a> | 内建 |  |  | 有 | 有 | 有 |
+| * [Opera Link](link.md) | 内建 | 内建 | 内建 |  |  |  |
+| * [Opera Turbo](turbo.md) | 内建 | 内建 |  |  |  |  |
+| * [Opera邮件](m2.md) | 内建 |  |  |  |  |  |
+| * [Opera蜻蜓](dragonfly.md) | 内建 |  |  |  |  |  |
+| * [Opera Unite](unite.md) | 内建 |  |  |  |  |  |
+| * [Opera扩展](extension.md) | 内建 |  |  |  |  |  |
+| * [Opera Widget](widget.md) | 内建 |  |  | 有 | 有 | 有 |
 
 ### 其他产品
 * My Opera：久负盛名的社交网站，兼具Opera官方论坛职能，技术水平有口皆碑。自从GFW开启以来从未在中国大陆解封。根据Opera官方对代理服务器收集的数据[1]所作的统计，My Opera在众多国家使用Opera Mini的人群中位列前十大网站，当然这与Opera Mini内置链接有关。
 
-* FastMail：最早提供免费IMAP服务的邮件服务供应商，2010年从澳大利亚收购，2011年推出的MyOpera邮箱服务即是以此为基础。
+* [FastMail](fastmail.md)：最早提供免费IMAP服务的邮件服务供应商，2010年从澳大利亚收购，2011年推出的MyOpera邮箱服务即是以此为基础。
 
 * Handster：重要的第三方软件商店，为LG等多家合作伙伴提供后台支持，2011年从美国收购。
 

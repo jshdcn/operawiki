@@ -10,7 +10,7 @@ Gecko发展到1.9版本时，采用了cairo作为图形引擎，cairo是一个�
 
 Gecko发展到1.9.1版本时，更换了所采用的脚本引擎。引入了JIT的SpiderMonkey使JS执行效率倍增，是正式发布以来最显著的一次飞升。
 
-近年来，随着WebKit内核的快速成长，Flock、Epiphany等传统Gecko浏览器纷纷转投WebKit阵营。除了无人维护的几个小项目以外，Gecko基本上成为Mozilla的私家玩具。
+近年来，随着WebKit内核的快速成长，[Flock](flock.md)、Epiphany等传统Gecko浏览器纷纷转投WebKit阵营。除了无人维护的几个小项目以外，Gecko基本上成为Mozilla的私家玩具。
 
 痛定思痛的Mozilla于2011年掀起了大跃进运动。Gecko版本号从2.0直接升至5.0并高速向6.0、7.0、8.0演进。其目标似乎是效法Chrome的成功案例，但也导致Gecko阵营进一步分化，除Firefox、Thunderbird和SeaMonkey三大王牌之外的Gecko程序全部脱轨，为数众多的XUL扩展无法跟上最新版本的发布。
 

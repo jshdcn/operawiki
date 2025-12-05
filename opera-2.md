@@ -1,6 +1,6 @@
 # Opera网页浏览器的特征
 
-这篇文章介绍Opera网页浏览器（包括Opera、Opera Mobile、Opera Mini和Opera Devices）的特征。
+这篇文章介绍Opera网页浏览器（包括Opera、[Opera Mobile](opera-mobile.md)、Opera Mini和Opera Devices）的特征。
 
 以下按照这些特征适用平台进行分类（Opera Devices因其载体不同功能各异，Opera Devices for Wii可参照Opera，Opera Devices for DS可参照Opera Mobile）
 
@@ -26,7 +26,7 @@ Opera Turbo服务采用自己发明的Opera Web Optimization Proxy传输网页�
 #### 反钓鱼
 Opera自桌面版9.1起，与数字证书提供商GeoTrust和钓鱼攻击信息厂商PhishTank合作提供反钓鱼式攻击功能，二者分别提供白名单和黑名单。9.5版时，又添加了NetCraft和HaultSecure作为信息来源。当从桌面版访问受举报的网站时，会出现地址为opera:fraud-warning的页面反映相关细节；而从Mini版访问受举报的网址时，则一般是直接返回404页面，系统细节不详，但反钓鱼服务的提供毫无悬念。
 
-#### Opera Link
+#### [Opera Link](link.md)
 在同一用户的不同设备之间、乃至同一设备不同账户之间同步选定的项目：书签、笔记、快速拨号……与浏览器配合紧密，也是Opera平台下唯一可用的浏览器级书签同步工具。
 
 #### 快速拨号
@@ -100,7 +100,7 @@ Opera还提供一种Kiosk模式，完全不保留任何私人数据。这种模�
 一个简易的BitTorrent下载客户端，无需加装单独的BT软件。
 
 #### 邮件
-功能丰富的电子邮件客户端，支持POP3、IMAP、简单邮件传输协议等一切当代主流邮件协议，内置联系人管理和邮件编辑工具。
+功能丰富的电子邮件客户端，支持POP3、[IMAP](imap.md)、简单邮件传输协议等一切当代主流邮件协议，内置联系人管理和邮件编辑工具。
 
 #### IRC聊天
 最好的IRC客户端之一。
@@ -115,7 +115,7 @@ Java ME的标准，利于访问本机资源，因此可以利用Opera Mini上传
 ## 参看
 * Opera
 * Opera Mobile
-* Opera Mini
+* [Opera Mini](opera-mini.md)
 
 ## 外部链接
 

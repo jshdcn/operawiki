@@ -1,6 +1,6 @@
 # 排版引擎
 
-排版引擎也被称为渲染引擎或样板引擎，它负责取得网页的内容（HTML、XML、图像等）、版式信息（CSS、XSL等），以及计算网页的显示方式，然后会输出至显示器或打印机。所有网页浏览器、电子邮件客户端以及其它需要编辑、显示网络内容的应用程序都需要排版引擎。
+排版引擎也被称为渲染引擎或样板引擎，它负责取得网页的内容（HTML、[XML](xml.md)、图像等）、版式信息（CSS、XSL等），以及计算网页的显示方式，然后会输出至显示器或打印机。所有网页浏览器、电子邮件客户端以及其它需要编辑、显示网络内容的应用程序都需要排版引擎。
 
 ## 历史
 
@@ -28,19 +28,19 @@ Mozilla最先提出四引擎，即网页引擎、样式引擎、脚本引擎和�
 
 * Cobra（基于Java）
 * Lobo
-* Gecko（Mozilla Firefox、Camino、Mozilla和网景导航者 6.0及以上）
+* [Gecko](gecko.md)（[Mozilla Firefox](firefox.md)、[Camino](camino.md)、Mozilla和网景导航者 6.0及以上）
 * GtkHTML（Novell Evolution及其他GTK+程序）
 * HTMLayout（作为Windows Mobile的嵌入式组件）
 * KHTML（Konqueror）
-* WebCore（Safari、Arora、Midori、OmniWeb 4.5及以上、Shiira、iCab、Google Chrome和Epiphany 2.8及以上）
+* WebCore（Safari、[Arora](arora.md)、[Midori](midori.md)、[OmniWeb](omniweb.md) 4.5及以上、Shiira、[iCab](icab.md)、Google Chrome和Epiphany 2.8及以上）
 * Blink
 * NetFront（爱可信NetFront）
 * NetSurf
-* Presto（Opera 7.0及以上、Macromedia Dreamweaver MX & 2004（Mac）和Adobe Creative Suite 2）
+* [Presto](presto.md)（Opera 7.0及以上、Macromedia Dreamweaver MX & 2004（Mac）和Adobe Creative Suite 2）
 * Prince XML
 * Robin（The Bat!）
 * Tasman（Mac OS版的Internet Explorer和Microsoft Outlook）
-* Trident（Internet Explorer、Internet Explorer shell和部分媒体播放器）
+* [Trident](trident.md)（Internet Explorer、Internet Explorer shell和部分媒体播放器）
 * EdgeHTML
 * Tkhtml（hv3）
 
@@ -52,7 +52,7 @@ Mozilla最先提出四引擎，即网页引擎、样式引擎、脚本引擎和�
 
 ### 不复存在
 
-* Elektra（Opera 3.5~6.1）
+* [Elektra](elektra.md)（Opera 3.5~6.1）
 * Mariner（Netscape 1~5）
 * iCab（iCab 1~3）
 
@@ -67,7 +67,7 @@ Mozilla最先提出四引擎，即网页引擎、样式引擎、脚本引擎和�
 * JavaScriptCore（OmniWeb 4.5及以上）
 * SquirrelFish（Safari 4.0及以上）
 * V8（Google Chrome）
-* SpiderMonkey（Mozilla Firefox 3.5及以上）
+* [SpiderMonkey](spidermonkey.md)（Mozilla Firefox 3.5及以上）
 
 ## 图形引擎
 
@@ -77,4 +77,4 @@ Mozilla最先提出四引擎，即网页引擎、样式引擎、脚本引擎和�
 
 * cairo（Mozilla Firefox 3.0及以上）
 * KSVG（Konqueror）
-* Vega（Opera 10.1及以上）
+* [Vega](vega.md)（Opera 10.1及以上）

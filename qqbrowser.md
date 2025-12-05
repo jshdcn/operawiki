@@ -2,7 +2,7 @@
 
 QQ浏览器的前身是Tencent Traveler，也称TT浏览器。一般认为TT是中国最早的IE+壳浏览器。TT的主要作用是在IE上附着QQ的各项业务，但不包括聊天，相当于MSN Explorer的QQ帐号版。由于缺少功能创新，推广力度也不强，TT的市场份额一直在较低水平徘徊。
 
-2009年，为了应对移动端最大竞争对手UC浏览器的挑战，腾讯推出了手机QQ浏览器，在Java、MTK、MRP、Symbian、Android、iOS、bada、BlackBerry OS、Windows Mobile和Windows Phone全平台与UC展开竞争。因其不惜血本的投入，短短数月之内QQ浏览器便超越了当时风头正劲的Opera Mini跃居中国第二大手机浏览器，同时也是世界第三大的中继压缩浏览器。手机QQ浏览器的设计目标是采用和UC一样的，结合本地解析的中继压缩技术，其服务器端压缩引擎称为Skeeter，客户端渲染引擎称为Krill。但是最早的MTK版本、iPad版本仅仅是没有服务器端功能的壳浏览器。
+2009年，为了应对移动端最大竞争对手UC浏览器的挑战，腾讯推出了手机QQ浏览器，在Java、MTK、MRP、Symbian、[Android](android.md)、[iOS](ios.md)、bada、BlackBerry OS、Windows Mobile和Windows Phone全平台与UC展开竞争。因其不惜血本的投入，短短数月之内QQ浏览器便超越了当时风头正劲的Opera Mini跃居中国第二大手机浏览器，同时也是世界第三大的中继压缩浏览器。手机QQ浏览器的设计目标是采用和UC一样的，结合本地解析的中继压缩技术，其服务器端压缩引擎称为Skeeter，客户端渲染引擎称为Krill。但是最早的MTK版本、iPad版本仅仅是没有服务器端功能的壳浏览器。
 
 2010年诺基亚推出的Ovi Browser，由QQ浏览器提供技术支持。类似的合作产品的还包括印度的ibibo的iBrowser等。
 

@@ -8,4 +8,4 @@
 
 最后妥协的是Mozilla Firefox，2017年发布的57版放弃了近20年来引以为傲的扩展系统，转而采用一个类似Chrome的实现。为了与XUL相区分，Mozilla给这套新机制命名为WebExtensions。这在Mozilla社团引起了轩然大波，许多开发者，包括那些坚持不发布Chrome版本的开发者，愤怒地拒绝了向新架构迁移的提议。许多用户，也因此离开了Mozilla社团，尽管他们最喜爱的替代方案，奉行Mozilla原教旨的Brave，早在一年前就叛投了Chromium阵营，一如同样发生在Opera与Vivaldi之间的故事。至今只有Safari还在坚持不向Google妥协，而是基于自己的App Store继续兜售自己的方案。
 
-各家的兼容模式略有差别，如Opera一度彻底放弃了自己的扩展商店，完全兼容Google的，直至Opera 20才恢复双重兼容，Edge既兼容Chrome Web Store，同时也维护了自己的扩展商店，Firefox则仅仅是在API层面复制了Blink extension API，而维持了独立自主的Add-ons商店和xpi包装格式。
+各家的兼容模式略有差别，如Opera一度彻底放弃了自己的扩展商店，完全兼容Google的，直至Opera 20才恢复双重兼容，Edge既兼容Chrome Web Store，同时也维护了自己的扩展商店，Firefox则仅仅是在API层面复制了Blink extension [API](api.md)，而维持了独立自主的Add-ons商店和xpi包装格式。

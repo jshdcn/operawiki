@@ -8,7 +8,7 @@ XMPP的特点是其数据完全由XML编写，并可以充分扩展。由于XMPP
 
 尽管2004年即成为国际标准，但在Google Talk大面积推广之前，只有不到100万用户。Gtalk的出现不仅使XMPP用户迅速扩张到千万级、亿级，更使得许多新兴科技公司争相效法，包括Facebook、VKontakte、校内发布的即时聊天工具都采用了XMPP。目前服务商对XMPP的实现主要分以下几种：
 
-支持泛Jabber登录，支持泛Jabber互通：站长开放泛Jabber互通的Gtalk（如Gmail域名）、LiveJournal、WordPress、Nimbuzz、Ovi Chat（已废弃）
+支持泛Jabber登录，支持泛Jabber互通：站长开放泛Jabber互通的Gtalk（如Gmail域名）、LiveJournal、WordPress、[Nimbuzz](nimbuzz.md)、Ovi Chat（已废弃）
 
 支持泛Jabber登录，但不与其它网络互通：Facebook Chat、VKontakte IM、校内通、Zoho Chat
 

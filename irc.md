@@ -6,7 +6,7 @@ IRC用于确认用户身份的只有一个nick，即昵称。不同的IRC服务�
 
 同一IRC服务器可以建立多个channel，即频道，频道名称必须以#符号开始，例如#irchelp，这些频道之间也是不能互通消息的。在频道内发消息，默认是群聊。如需同特定好友聊天，可以发起私聊。聊天全部依靠文字，支持少量符号表情，没有语音和视频。
 
-受网景影响，全功能浏览器（包括Mozilla、SeaMonkey、Opera）大多自带IRC客户端。其中Opera迟至2004年的7.5版本方始提供，早前则是支持ICQ协议。3.5及以后版本的Firefox通过调用网络版的Mibbit或其它桌面程序提供IRC协定支持。
+受网景影响，全功能浏览器（包括Mozilla、[SeaMonkey](seamonkey.md)、Opera）大多自带IRC客户端。其中Opera迟至2004年的7.5版本方始提供，早前则是支持ICQ协议。3.5及以后版本的Firefox通过调用网络版的Mibbit或其它桌面程序提供IRC协定支持。
 
 不支持IRC的程序可以安装IRC扩展，最有名的是Firefox上的ChatZilla和Emacs上的ERC。
 

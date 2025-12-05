@@ -1,6 +1,6 @@
 # LastPass
 
-LastPass是全球重要的密码同步工具供应商。面向Opera、IE、Firefox、Chrome和Safari提供密码存储及同步服务。其付费账户更可用于包括Android、iOS、Windows Phone、Windows Mobile、BlackBerry OS、webOS、Symbian在内的诸多移动平台。
+LastPass是全球重要的密码同步工具供应商。面向Opera、IE、Firefox、Chrome和Safari提供密码存储及同步服务。其付费账户更可用于包括Android、[iOS](ios.md)、Windows Phone、Windows Mobile、BlackBerry OS、[webOS](webos.md)、Symbian在内的诸多移动平台。
 
 2010年11月Opera甫一推出扩展平台即支持，而Opera Link迟至次年6月才支持密码同步。
 
