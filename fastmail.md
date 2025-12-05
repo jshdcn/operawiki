@@ -2,6 +2,6 @@
 
 FastMail是原产澳大利亚的一家邮件服务提供商，其业务涵盖了个人邮箱、企业邮箱，但以托管邮箱为主。
 
-FastMail在全球最早提供了免费的IMAP服务，但在Gmail等主流邮箱相继支持IMAP之后遭遇了严重的挑战。
+FastMail在全球最早提供了免费的[IMAP](imap.md)服务，但在Gmail等主流邮箱相继支持IMAP之后遭遇了严重的挑战。
 
-2010年4月被Opera公司收购，业务仍旧保留。一年后Opera以其技术为基础改良了Opera网页邮箱，同时推出了MyOpera邮件系统。
+2010年4月被[Opera公司](asa.md)收购，业务仍旧保留。一年后Opera以其技术为基础改良了Opera网页邮箱，同时推出了MyOpera邮件系统。
