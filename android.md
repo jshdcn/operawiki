@@ -4,9 +4,9 @@ Android始创于2003年，2005年为Google收购。2007年公诸于世，2008年
 
 名义上，Android的开发者是一个叫作Open Handset Alliance的组织，这个组织囊括了世界上大部分主要的手机制造商、芯片制造商和电信运营商。但实际上，据统计，90%以上的Android专属代码都是由Google提交的。
 
-所谓Android专属代码，是指除了Android引入的Linux内核、开源的常用工具和其它组件以外的部分。其中最重要的，是Dalvik虚拟机，亦即Google借鉴Apache的Harmony拟制的一个开发平台——与iOS不同，Android从一开始就致力于建立虚拟机级的本地开发平台。Google为了这个平台与拥有Java版权的Sun曾发生争吵，后来又与收购了Sun的甲骨文公司对簿公堂，Google承认了部分Dalvik代码涉嫌侵权，但声称在4.0版本已经清理完毕。正因为这些争议，作为智能机首选开发平台的Android无法和功能机首选开发平台J2ME共享API。
+所谓Android专属代码，是指除了Android引入的[Linux](linux.md)内核、开源的常用工具和其它组件以外的部分。其中最重要的，是Dalvik虚拟机，亦即Google借鉴[Apache](apache.md)的Harmony拟制的一个开发平台——与[iOS](ios.md)不同，Android从一开始就致力于建立虚拟机级的本地开发平台。Google为了这个平台与拥有Java版权的Sun曾发生争吵，后来又与收购了Sun的甲骨文公司对簿公堂，Google承认了部分Dalvik代码涉嫌侵权，但声称在4.0版本已经清理完毕。正因为这些争议，作为智能机首选开发平台的Android无法和功能机首选开发平台J2ME共享[API](api.md)。
 
-Android的成功得益于硬件厂商的全力拥护，摩托罗拉、索尼爱立信、华为、联想、魅族、亚马逊都是全力支持Android，而三星、HTC、中兴也都是将Android作为智能机首选平台。这些厂商会为Android添加一些独特的功能，例如只有索爱出品的Android手机可以玩PSP游戏，只有亚马逊出品的Android平板能够使用Silk浏览器。
+Android的成功得益于硬件厂商的全力拥护，摩托罗拉、索尼爱立信、华为、联想、魅族、亚马逊都是全力支持Android，而三星、HTC、中兴也都是将Android作为智能机首选平台。这些厂商会为Android添加一些独特的功能，例如只有索爱出品的Android手机可以玩PSP游戏，只有亚马逊出品的Android平板能够使用[Silk](silk.md)浏览器。
 
 在美国和西欧市场，Android设备一般载有Google的全套服务，有时称为with Google或Google Experience，后定名GMS即Google Mobile Services。这项业务为Google带来每台设备10美元的收益。而在拉美、中国等市场，由于Google的服务相对不是那么流行，所以厂商通常不会内置GMS，同时推广自身的服务。主流的Android厂商基本都拥有自己的软件商店，尽管Android Market依然是最主要的发行渠道。在中国，定制版Android已经成为一个巨大的市场，中移动、联想、魅族、小米、点心、阿里云、百度等都乐此不疲。
 
