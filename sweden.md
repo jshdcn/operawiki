@@ -1,13 +1,5 @@
 # 瑞典
 
-瑞典是北欧国家，位于斯堪的纳维亚半岛。
+瑞典是北欧国家，位于斯堪的纳维亚半岛。与[挪威](norway.md)、[丹麦](denmark.md)曾同属卡尔马联盟。
 
-## 与Telenor的关系
-
-Telenor于2005年进入瑞典市场，成为该国的移动运营商之一。
-
-## 参见
-
-- [Telenor](telenor.md)
-- [挪威](norway.md)
-- [丹麦](denmark.md)
+[Telenor](telenor.md)于2005年进入瑞典市场，成为该国的移动运营商之一。
