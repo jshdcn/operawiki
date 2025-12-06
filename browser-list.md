@@ -1,36 +1,36 @@
 # 桌面浏览器列表
 
-以下是桌面浏览器的列表，按照排版引擎排列。
+以下是桌面浏览器的列表，按照[排版引擎](engine.md)排列。
 
-## 图形界面
+## [图形界面](gui.md)
 
 ### 同时基于三种排版引擎
 
-**[Gecko](gecko.md)、Trident和WebKit**
+#### [Gecko](gecko.md)、[Trident](trident.md)和[WebKit](webkit.md)
 
 * Lunascape
 
 ### 同时基于两种排版引擎
 
-**Gecko和Trident**
+#### Gecko和Trident
 
-* Maxthon（版号1）
+* [Maxthon](maxthon.md)（版号1）
 * Netscape Browser（版号8）
 * Sleipnir
 
-**WebKit和Trident**
+#### WebKit和Trident
 
 * Maxthon（版号3）
-* 360（版号4后）
+* [360](360.md)（版号4后）
 * ChromePlus
-* QQBrowser
-* SogouIE（版号2后）
+* [QQBrowser](qqbrowser.md)
+* [SogouIE](sogouid.md)（版号2后）
 * Baidu Browser
 * AliBrowser（版号1后）
 
-## 单一排版引擎
+### 单一排版引擎
 
-**基于Gecko排版引擎**
+#### 基于Gecko排版引擎
 
 * [Mozilla Firefox](firefox.md)
 * Mozilla Suite / Netscape（版号6、7、9）/ [SeaMonkey](seamonkey.md)
@@ -41,7 +41,7 @@
 * BackArrow
 * Beonex Communicator
 * CompuServe
-* Epiphany（版号2.6.26前）
+* [Epiphany](epiphany.md)（版号2.6.26前）
 * [Flock](flock.md)
 * Galeon
 * IBM Web Browser
@@ -51,7 +51,7 @@
 * Skipstone
 * RisingSE
 
-**基于Trident排版引擎**
+#### 基于Trident排版引擎
 
 * Internet Explorer
 * Avant Browser
@@ -77,11 +77,13 @@
 * SogouIE（版号1）
 * AliBrowser（版号0）
 
-**基于KHTML排版引擎**
+#### 基于KHTML排版引擎
 
-* Konqueror
+* [Konqueror](https://userbase.kde.org/Konqueror/zh-cn)
 * SkyKruzer
-* [WebKit](webkit.md)
+
+#### WebKit
+
 * Safari
 * ABrowse
 * Epiphany（版号2.6.28后）
@@ -91,13 +93,17 @@
 * Shiira
 * SunriseBrowser
 * Uzbl
-* QtWebKit
+
+#### QtWebKit
+
 * [Arora](arora.md)
 * Doodle
-* Rekonq
+* [Rekonq](https://userbase.kde.org/Rekonq/zh-cn)
 * Sunrise
+
+#### Chromium
+
 * [Chromium](chromium.md)
-* Chromium
 * ComodoDragon
 * Flock（版号3）
 * SunChrome
@@ -106,19 +112,19 @@
 * RockMelt
 * Chrome
 
-**基于Elektra排版引擎**
+#### 基于[Elektra](elektra.md)排版引擎
 
-* Opera（版号3.5-6.1）
+* [Opera](browser.md)（版号3.5-6.1）
 
-**基于Presto排版引擎**
+#### 基于[Presto](presto.md)排版引擎
 
 * Opera（版号7后）
 
-**基于Mariner排版引擎**
+#### 基于Mariner排版引擎
 
 * Netscape（版号5）
 
-## 现存无名引擎
+#### 现存无名引擎
 
 * Amaya
 * AWeb
@@ -135,7 +141,7 @@
 * Oregano
 * Voyager
 
-## 早期无引擎
+### 早期无引擎
 
 * WorldWideWeb
 * Erwise（于1992年4月发布）

@@ -1,6 +1,6 @@
 # Yoono
 
-Yoono是一个社交扩展，现可用于Chrome、Firefox、[SeaMonkey](seamonkey.md)（称附加组件）和IE（称加载项）。就浏览器而论，粗略地说它安装在Firefox上的效果可以相当于Flock；就扩展而论，Yoono大约是Meebo、[Xmarks](xmarks.md)、Twitterfox、Facebook Toolbar等的集合体。在一个侧边栏中支持多种聊天协议、微博客、社交网站乃至书签同步。曾在很长时间内成为Firefox官方推荐的社交扩展。
+Yoono是一个社交扩展，现可用于Chrome、[Firefox](firefox.md)、[SeaMonkey](seamonkey.md)（称附加组件）和IE（称加载项）。就浏览器而论，粗略地说它安装在Firefox上的效果可以相当于[Flock](flock.md)；就扩展而论，Yoono大约是[Meebo](meebo.md)、[Xmarks](xmarks.md)、Twitterfox、Facebook Toolbar等的集合体。在一个侧边栏中支持多种聊天协议、微博客、社交网站乃至书签同步。曾在很长时间内成为Firefox官方推荐的社交扩展。
 
 无论是否注册帐号，其数据流量皆需通过Yoono服务器。非注册用户也会由网站分配给Cookie帐号，但有些功能如书签同步，还是只有注册用户能够享受得到。
 

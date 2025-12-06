@@ -2,7 +2,7 @@
 
 eXtensible Messaging and Presence Protocol，是一个已成为IETF标准，全球使用人口最多的即时通讯协议。最初由Jabber公司（被思科收购）开发，在标准化以前称为Jabber协议，后公开发布并由XMPP标准基金会实现标准化。主要由RFC 6120定义，IETF的标准都是可以免费使用的。
 
-XMPP的特点是其数据完全由XML编写，并可以充分扩展。由于XMPP具有实时通知的能力，Google使用它作为技术基础为旗下的Android用户提供C2DM消息推送服务。
+XMPP的特点是其数据完全由[XML](xml.md)编写，并可以充分扩展。由于XMPP具有实时通知的能力，Google使用它作为技术基础为旗下的[Android](android.md)用户提供C2DM消息推送服务。
 
 每个域名都可以开放XMPP服务并分发登录ID，客户端凭借此ID登录，通过服务器之间的互通与其它域名下的ID进行对谈，甚至不采用XMPP协议的通讯网络也可以通过XMPP网关与XMPP网络通讯。更有趣的是，每个域名都可以自由选择实现或不实现其中的某项功能。
 
