@@ -38,6 +38,6 @@ Mozilla的项目通常受一个委员会管理，这个委员会的成员后来�
 
 ## 轶闻
 
-在2006年的时候，OpenBSD的de Raadt请求那些通过发行包含OpenSSH的软件盈利的公司，给OpenSSH提供赞助，Mozilla基金会立刻提供的1万美元的赞助给de Raadt和OpenBSD用于OpenSSH的开发。这笔钱是通过和Google的合作而获得的收入。虽然当时这个赞助请求还发给了很多其他的大公司，如思科、IBM、惠普和红帽公司（他们都销售了包含OpenSSH的操作系统，但是却没提供过赞助），Mozilla基金会还是慷慨解囊，因为Mozilla基金会发现，如果没用OpenSSH，他们的很多员工就只能通过不安全的方法工作。
+在2006年的时候，[OpenBSD](openbsd.md)的de Raadt请求那些通过发行包含OpenSSH的软件盈利的公司，给OpenSSH提供赞助，Mozilla基金会立刻提供的1万美元的赞助给de Raadt和OpenBSD用于OpenSSH的开发。这笔钱是通过和Google的合作而获得的收入。虽然当时这个赞助请求还发给了很多其他的大公司，如思科、IBM、惠普和红帽公司（他们都销售了包含OpenSSH的操作系统，但是却没提供过赞助），Mozilla基金会还是慷慨解囊，因为Mozilla基金会发现，如果没用OpenSSH，他们的很多员工就只能通过不安全的方法工作。
 
 Mozilla欧洲、Mozilla日本和Mozilla中国是非营利组织，他们的目的是推广和普及Mozilla的产品和项目。他们是独立的机构，虽然和Mozilla基金会是相关联的。
