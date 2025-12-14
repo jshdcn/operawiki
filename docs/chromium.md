@@ -9,3 +9,5 @@ Chromium由Google推出于2008年9月3日，但之前已经秘密开发了很长
 随着Chromium市场份额的扩大，Google正在逐步削减对传统浏览器的支持。其网络应用的一些最新功能只有在使用Chromium系列，甚至要安装特定扩展或开启特定实验的情况下方可获得。
 
 基于Chromium的著名开源项目有[Flock](flock.md)、[世界之窗](theworld.md)极速版、[360极速浏览器](360.md)等。
+
+Chromium对业界的影响，还不止于浏览器，基于Chromium的CEF即Chromium Embedded Framework，已经成了App内嵌WebView的标准，而内置Chromium的Electron，则与[Qt](qt.md)、GTK一道，成为了重要的跨[操作系统](os.md)开发平台。
