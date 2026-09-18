@@ -31,4 +31,5 @@ macOS 10.15是X系列的最后一个发布，在此之间基本是每年发布�
 | 13 | Ventura |  |
 | 14 | Sonoma |  |
 | 15 | Sequoia |  |
-| 26 | Tahoe | 最后一个支持Intel硬件的版本 |
+| 26 | Tahoe | 最后一个支持Intel硬件的版本，但软件仍可通过Rosetta 2运行 |
+| 27 | Golden Gate |  |
