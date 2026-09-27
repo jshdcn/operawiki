@@ -1,0 +1,6 @@
+title: OperaWiki
+description: 以 Opera 为中心的 IT 综合百科
+theme: jekyll-theme-minimal
+markdown: kramdown
+exclude:
+  - README.md.bak
