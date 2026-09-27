@@ -24,7 +24,7 @@
 * [360](360.md)（版号4后）
 * ChromePlus
 * [QQBrowser](qqbrowser.md)
-* [SogouIE](sogouid.md)（版号2后）
+* [SogouIE](sogouie.md)（版号2后）
 * Baidu Browser
 * AliBrowser（版号1后）
 
