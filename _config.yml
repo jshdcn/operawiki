@@ -2,5 +2,9 @@ title: OperaWiki
 description: 以 Opera 为中心的 IT 综合百科
 theme: jekyll-theme-minimal
 markdown: kramdown
+baseurl: /operawiki
+url: https://jshdcn.github.io
+lang: zh-CN
+encoding: utf-8
 exclude:
   - README.md.bak
