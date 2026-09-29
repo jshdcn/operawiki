@@ -49,6 +49,8 @@ Opera浏览器支持多种操作系统，包括[Windows](windows.md)、[Linux](l
 
 2011年6月28日，Opera发布了11.5正式版，Opera Link实现密码同步。
 
+2012年6月14日，Opera发布了12.0正式版，这是伟大的Presto内核的最后一个大版本。此后的15.0版本转向Blink，开始走上套壳之路。
+
 ## 功能
 
 参见：[Opera网页浏览器的特征](opera-2.md)

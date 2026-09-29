@@ -1,6 +1,6 @@
 # 桌面浏览器列表
 
-以下是桌面浏览器的列表，按照[排版引擎](engine.md)排列。
+以下是桌面浏览器的列表，按照[排版引擎](engine.md)排列。早年浏览器排版引擎选择百花齐放，第二次浏览器大战结束后的新兴浏览器相对比较统一，官网版本多采用Chromium，商店版本则采用系统内核。
 
 ## [图形界面](gui.md)
 
@@ -21,12 +21,12 @@
 #### WebKit和Trident
 
 * Maxthon（版号3）
-* [360](360.md)（版号4后）
-* ChromePlus
-* [QQBrowser](qqbrowser.md)
-* [SogouIE](sogouie.md)（版号2后）
-* Baidu Browser
-* AliBrowser（版号1后）
+* [360](360.md)（Windows安全版版号6，Windows极速版版号7.3前）
+* ChromePlus（版号1-2）
+* [QQBrowser](qqbrowser.md)（Windows版号5-6）
+* [SogouIE](sogouie.md)（Windows版号2-4）
+* Baidu Browser（Windows版号5前）
+* AliBrowser（版号1）
 
 ### 单一排版引擎
 
@@ -68,10 +68,10 @@
 * mxie
 * NeoPlanet
 * NetCaptor
-* TheWorld（版号3前）
+* [TheWorld](theworld.md)（版号5前）
 * 115
 * 155
-* 360（版号3前）
+* 360（安全版版号5前）
 * Windows Explorer
 * Tencent Traveler
 * SogouIE（版号1）
@@ -118,7 +118,7 @@
 
 #### 基于[Presto](presto.md)排版引擎
 
-* Opera（版号7后）
+* Opera（版号7-12）
 
 #### 基于Mariner排版引擎
 

@@ -8,28 +8,28 @@ macOS的前身是Mac OS，1984年苹果公司为麦金塔电脑开发的操作�
 
 macOS 10.15是X系列的最后一个发布，在此之间基本是每年发布一个小版本，与Microsoft Windows Service Pack的发布周期大抵相当。从支持Apple芯片的11开始了飙版本号模式，11、12、13以每年一个大版本演进，并在15之后直接跳到了26，与同门操作系统对齐。用户对此感知不强的一个重要原因是，从10.2 Jaguar开始，macOS另有一套广为人知的代号版本系统，在10.9 Mavericks之前是以猫科动物命名，在10.10 Yosemite之后是以加州地名命名。
 
-| 版本号 | 代号 | 说明 |
-| --- | --- | --- |
-| 10.0 | Cheetah | 初版，仅支持32位PowerPC |
-| 10.1 | Puma |  |
-| 10.2 | Jaguar | 支持64位PowerPC硬件，但只能开发32位程序 |
-| 10.3 | Panther |  |
-| 10.4 | Tiger | 引入Intel架构，允许开发64位程序 |
-| 10.5 | Leopard | 最后一个支持PowerPC硬件的版本，但软件仍可通过Rosetta运行 |
-| 10.6 | Snow Leopard | 最后一个支持32位硬件的版本 |
-| 10.7 | Lion |  |
-| 10.8 | Mountain Lion |  |
-| 10.9 | Mavericks |  |
-| 10.10 | Yosemite |  |
-| 10.11 | El Capitan |  |
-| 10.12 | Sierra |  |
-| 10.13 | High Sierra |  |
-| 10.14 | Mojave | 最后一个支持32位软件的版本 |
-| 10.15 | Catalina |  |
-| 11 | Big Sur | 引入ARM架构 |
-| 12 | Monterey |  |
-| 13 | Ventura |  |
-| 14 | Sonoma |  |
-| 15 | Sequoia |  |
-| 26 | Tahoe | 最后一个支持Intel硬件的版本，但软件仍可通过Rosetta 2运行 |
-| 27 | Golden Gate |  |
+| 版本号 | 代号 | 说明 | 发布年份 |
+| --- | --- | --- | --- |
+| 10.0 | Cheetah | 初版，仅支持32位PowerPC | 2001 |
+| 10.1 | Puma |  | 2001 |
+| 10.2 | Jaguar | 支持64位PowerPC硬件，但只能开发32位程序 | 2002 |
+| 10.3 | Panther |  | 2003 |
+| 10.4 | Tiger | 引入Intel架构，允许开发64位程序 | 2005 |
+| 10.5 | Leopard | 最后一个支持PowerPC硬件的版本，但软件仍可通过Rosetta运行 | 2007 |
+| 10.6 | Snow Leopard | 最后一个支持32位硬件的版本 | 2009 |
+| 10.7 | Lion |  | 2011 |
+| 10.8 | Mountain Lion |  | 2012 |
+| 10.9 | Mavericks |  | 2013 |
+| 10.10 | Yosemite |  | 2014 |
+| 10.11 | El Capitan |  | 2015 |
+| 10.12 | Sierra |  | 2016 |
+| 10.13 | High Sierra |  | 2017 |
+| 10.14 | Mojave | 最后一个支持32位软件的版本 | 2018 |
+| 10.15 | Catalina |  | 2019 |
+| 11 | Big Sur | 引入ARM架构 | 2020 |
+| 12 | Monterey |  | 2021 |
+| 13 | Ventura |  | 2022 |
+| 14 | Sonoma |  | 2023 |
+| 15 | Sequoia |  | 2024 |
+| 26 | Tahoe | 最后一个支持Intel硬件的版本，但软件仍可通过Rosetta 2运行 | 2025 |
+| 27 | Golden Gate |  | 2026 |
