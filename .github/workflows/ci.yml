@@ -6,8 +6,8 @@ on:
     branches: [main]
 
 jobs:
-  lint:
-    name: Markdown lint (changed files)
+  markdown:
+    name: Markdown checks
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,11 +19,11 @@ jobs:
           set -euo pipefail
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             BASE="origin/${{ github.base_ref }}"
-            git diff --name-only "${BASE}...HEAD" -- '*.md' > changed.txt || true
+            git diff --name-only --diff-filter=ACMR "${BASE}...HEAD" -- '*.md' > changed.txt
           else
-            git diff --name-only HEAD~1 HEAD -- '*.md' > changed.txt || true
+            git diff --name-only --diff-filter=ACMR "${{ github.event.before }}" "${{ github.sha }}" -- '*.md' > changed.txt
           fi
-          FILES=$(grep -v '^$' changed.txt | tr '\n' ' ' || true)
+          FILES=$(tr '\n' ' ' < changed.txt)
           echo "files=${FILES}" >> "$GITHUB_OUTPUT"
           echo "Changed: ${FILES:-<none>}"
       - name: markdownlint-cli2
@@ -31,40 +31,20 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           globs: ${{ steps.changed.outputs.files }}
-
-  internal-links:
-    name: Internal link check
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Collect changed .md files
-        id: changed
-        run: |
-          set -euo pipefail
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            BASE="origin/${{ github.base_ref }}"
-            git diff --name-only "${BASE}...HEAD" -- '*.md' > changed.txt || true
-          else
-            git diff --name-only HEAD~1 HEAD -- '*.md' > changed.txt || true
-          fi
-          FILES=$(grep -v '^$' changed.txt | tr '\n' ' ' || true)
-          echo "files=${FILES}" >> "$GITHUB_OUTPUT"
-          echo "Changed: ${FILES:-<none>}"
       - name: Check internal links / file existence
         # PR: only files changed in this PR (pre-existing broken links on main
         # must not block unrelated PRs). Push to main: whole repo.
-        if: steps.changed.outputs.files != ''
-        run: python3 .github/scripts/check-links.py ${{ steps.changed.outputs.files }}
+        if: github.event_name == 'pull_request' && steps.changed.outputs.files != ''
+        env:
+          FILES: ${{ steps.changed.outputs.files }}
+        run: python3 .github/scripts/check-links.py $FILES
       - name: Whole-repo scan (push to main)
-        if: github.event_name != 'pull_request'
+        if: github.event_name == 'push'
         run: python3 .github/scripts/check-links.py
 
   external-links:
     name: External links (advisory)
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
       - name: Lychee broken link checker
