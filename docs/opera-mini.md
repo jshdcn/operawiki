@@ -38,7 +38,7 @@ Opera Mini是一款挪威的[Opera软件公司](asa.md)制作的，用于在移�
 
 可以通过个人注册的帐户，免费在Opera服务器上保存书签、笔记、快速拨号、网源订阅和搜索，并可在包括[Opera](browser.md)和[Opera Mobile](opera-mobile.md)在内的多种上网终端间同步这些信息。
 
-### Opera Zoom™智能缩放技术
+### Opera Zoom^TM^智能缩放技术
 
 可用缩略图模式显示网页。
 
