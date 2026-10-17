@@ -22,4 +22,4 @@ Telenor的孟加拉分部是同当地著名的农民领袖[穆罕默德·尤纳�
 
 Telenor的[俄国](russia.md)分部是同阿尔法集团合资的VimpelCom，但在收购一家[乌克兰](ukraine.md)运营商的过程中，控股乌克兰KyivStar的Telenor与试图收购URS的阿尔法集团产生了矛盾。俄国[鄂木斯克](omsk.md)地方法院因而判决Telenor需出售VimpelCom股份以支付1.7亿美元罚款。
 
-Telenor收购联科无线获得的[印度](india.md)业务与其[巴基斯坦](pakistan.md)分部产生了某种政治上的微妙关系，所以Telenor将巴基斯坦业务售予当地最小运营商Ufone，后者借此超过[中国移动](china-mobile.md)成为全国第二大运营商。
+Telenor收购联科无线获得的[印度](india.md)业务与其[巴基斯坦](pakistan.md)分部产生了某种政治上的微妙关系，最终两块业务分别卖给Airtel和Etisalat。

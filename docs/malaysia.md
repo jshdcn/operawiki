@@ -4,9 +4,4 @@
 
 ## 与Telenor的关系
 
-Telenor于1999年进入马来西亚市场，成为该国的移动运营商之一。
-
-## 参见
-
-- [Telenor](telenor.md)
-- [泰国](thailand.md)
+[Telenor](telenor.md)于1999年进入马来西亚市场，成为该国的移动运营商之一。

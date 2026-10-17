@@ -24,4 +24,4 @@
 
 ## 电信
 
-乌克兰有多个电信运营商，包括与[Telenor](telenor.md)合资的KyivStar等。
+乌克兰有多个电信运营商，包括[Telenor](telenor.md)在1998-2009年间投资的KyivStar等。
