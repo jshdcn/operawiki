@@ -6,9 +6,11 @@ Telenor是[挪威](norway.md)的一家电信运营商，前身是挪威最早和
 
 在1994至1998年间，Telenor是一家国有控股公司。在这段时间里，Telenor开始了它的国际化步伐。
 
-现今，Telenor已经在[挪威](norway.md)、[孟加拉](bangladesh.md)（1997）、[乌克兰](ukraine.md)（1998）、[马来西亚](malaysia.md)（1999）、[丹麦](denmark.md)、[泰国](thailand.md)（2000）、[匈牙利](hungary.md)（2002）、[黑山](montenegro.md)、[巴基斯坦](pakistan.md)（2004）、[瑞典](sweden.md)（2005）、[塞尔维亚](serbia.md)（2006）和[印度](india.md)（2009）作为控股公司运营业务，在[俄国](russia.md)（1994）、[奥地利](austria.md)（1997）、[斯洛伐克](slovakia.md)、[捷克](czech.md)（2006）等国的移动公司也有重要份额。其中，挪威、巴基斯坦和孟加拉的公司都是当地的市场领导者。
+现今，Telenor已经在[挪威](norway.md)、[孟加拉](bangladesh.md)（1997）、[丹麦](denmark.md)（2000）[瑞典](sweden.md)（2005）和芬兰（2019）作为控股公司运营业务，在[马来西亚](malaysia.md)（1999）的移动公司也有重要份额。其中，挪威和孟加拉的公司都是当地的市场领导者。
 
-由于在人口众多的南亚地区占有重要份额，按用户数计算，截至2009年7月，Telenor已拥有1.68亿手机用户，是世界第五大移动运营商。
+Telenor历史上还曾在[乌克兰](ukraine.md)（1998-2019）、[泰国](thailand.md)（2000-2028）、[匈牙利](hungary.md)（2002-2018）、[黑山](montenegro.md)（1996-2018）、[巴基斯坦](pakistan.md)（2004-2025）、[塞尔维亚](serbia.md)（2006-2018）、[印度](india.md)（2009-2018）、[俄国](russia.md)（1994-2019）、[奥地利](austria.md)（1997-2007）、[斯洛伐克](slovakia.md)（1998-2005）、[捷克](czech.md)（1998-2005）和缅甸（2014-2022）等国运营业务，现已基本退出。
+
+由于在人口众多的南亚地区占有重要份额，按用户数计算，远在2009年7月，Telenor曾拥有1.68亿手机用户，是世界第五大移动运营商。
 
 ## 产品
 
@@ -20,4 +22,4 @@ Telenor的孟加拉分部是同当地著名的农民领袖[穆罕默德·尤纳�
 
 Telenor的[俄国](russia.md)分部是同阿尔法集团合资的VimpelCom，但在收购一家[乌克兰](ukraine.md)运营商的过程中，控股乌克兰KyivStar的Telenor与试图收购URS的阿尔法集团产生了矛盾。俄国[鄂木斯克](omsk.md)地方法院因而判决Telenor需出售VimpelCom股份以支付1.7亿美元罚款。
 
-Telenor收购联科无线获得的[印度](india.md)业务与其[巴基斯坦](pakistan.md)分部产生了某种政治上的微妙关系，所以Telenor有意将巴基斯坦业务售予当地最小运营商[中国移动](china-mobile.md)。
+Telenor收购联科无线获得的[印度](india.md)业务与其[巴基斯坦](pakistan.md)分部产生了某种政治上的微妙关系，所以Telenor将巴基斯坦业务售予当地最小运营商Ufone，后者借此超过[中国移动](china-mobile.md)成为全国第二大运营商。
