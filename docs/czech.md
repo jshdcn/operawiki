@@ -4,4 +4,4 @@
 
 ## 电信
 
-当地三大运营商是T-Mobile、O_2_和Vodafone。[Telenor](telenor.md)在捷克未拿到移动牌照。
+当地三大运营商是T-Mobile、O₂和Vodafone。[Telenor](telenor.md)在捷克未拿到移动牌照。
